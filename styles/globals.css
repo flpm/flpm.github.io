@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.markdown-content p {
+    @apply pb-8;
+}
+
+.markdown-content ul {
+    @apply pb-8 ml-12;
+}
+
+.markdown-content li {
+    @apply list-disc;
+}
+
+.markdown-content a {
+    @apply underline decoration-2 decoration-slate-950 hover:bg-slate-950 hover:text-white focus:bg-slate-950 focus:text-white;
+}
+
+.markdown-content h3 {
+    @apply text-2xl font-semibold pb-4 pt-4;
+}
