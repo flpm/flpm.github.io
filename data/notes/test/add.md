@@ -4,4 +4,4 @@ subtitle: 'Bacon makes everything better'
 date: '2020-01-01'
 ---
 
-Bacon test
+Bacon test, from obsidian in the iPhone. 🤞
