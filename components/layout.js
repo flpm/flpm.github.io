@@ -11,7 +11,7 @@ export const siteTitle = "flpm.dev | the personal site of Felipe Moreno";
 
 export default function Layout({ title, children, gridClassName }) {
   return (
-    <div className="">
+    <div className="min-w-[800px]">
       <Head>
         <link rel="icon" href="/favicon.ico" />
         <meta

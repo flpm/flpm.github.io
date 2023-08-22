@@ -1,10 +1,11 @@
-import Section from "../components/section";
-import Layout from "../components/layout";
-import { getAllPageIds, getPageData } from "../lib/pages";
 import { ReactMarkdown } from "react-markdown/lib/react-markdown";
+
+import Layout from "../components/layout";
+import Section from "../components/section";
 import Link from "next/link";
-import { openSans } from "../components/fonts";
 import Date from "../components/date";
+import { openSans } from "../components/fonts";
+import { getPageData, getAllPageIds } from "../lib/pages";
 
 export async function getStaticProps({ params }) {
   const data = await getPageData(params.page);

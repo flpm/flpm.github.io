@@ -1,6 +1,6 @@
 ---
-title: 'Why Security is hard'
-subtitle: 'or why the mouse always wins'
+title: 'This has bacon'
+subtitle: 'Bacon makes everything better'
 date: '2020-01-01'
 ---
 
