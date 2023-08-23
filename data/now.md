@@ -7,9 +7,8 @@ date: '2023-08-19'
 
 ### Reading and listening to
 
-- (audiobook) Herodotus, the father of history (finished)
-- (paperback) Rescuing Socrates (currently reading)
-- (paperback) Great Books (coming next)
+- (paperback) Rescuing Socrates, by Roosevelt Montás
+- (audiobook) The Skeptic's Guide to Great Books (The Great Courses), by Grant L. Voth
 
 ### Working on
 
@@ -25,5 +24,5 @@ date: '2023-08-19'
 
 ----
 
-- Books I read [before](/finished_books).
-- My [to read](/to_read) list.
+- [Books I read before](/notes/finished_books).
+- [Books I want to read](/notes/to_read).
