@@ -48,7 +48,7 @@ export default function Layout({ title, children, gridClassName }) {
           rightBar={
             <span>
               designed and built from scratch -{" "}
-              <Link className="hover:underline" href="/pages/site">
+              <Link className="hover:underline" href="/notes/colophon">
                 learn more
               </Link>
             </span>

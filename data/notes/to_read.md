@@ -8,7 +8,11 @@ date: '2023-08-23'
 
 - Great Books: My adventures with Homer, Rousseau, Woolf and other indestructible writers of the western world, by David Denby
 - Language in Thoughts and Action, by S. I. Hayakawa and Alan R. Hayakawa
-
+- The First Fossil Hunters, by Adrienne Mayor
+- El manuscrito de nieve, by Luis Garcia Jambrina
+- Un été avec Pascal, by Antoine Compagnon
+- Une journée dans la Rome antique, by Alberto Angela
+- Les Rois Maudits (series), by Maurice Druon 
 
 ### Audiobooks
 
@@ -28,3 +32,7 @@ date: '2023-08-23'
 - Pax Romana, by Adrian Goldsworthy
 - Plato, Socrates and the Dialogues (The Great Courses), by Michael Sugrue
 - Greek Tragedy (The Great Courses), by Elizabeth Vandiver
+
+---
+
+- [Books I read before](/notes/finished_books)

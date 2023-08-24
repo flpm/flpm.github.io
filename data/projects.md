@@ -1,6 +1,6 @@
 ---
 title: 'projects'
-subtitle: 'some stuff I have made'
+subtitle: 'stuff I am working on'
 date: '2023-08-19'
 ---
 
