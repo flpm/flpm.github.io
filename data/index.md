@@ -15,6 +15,6 @@ modified them.
 
 I use [Obsidian](https://obsidian.md/), an open-source app, to write and publish content to
 the site via GitHub. If you are curious about how it all works, take
-a peek [behind the scenes](/how_it_works).
+a peek [behind the scenes](/notes/how_it_works).
 
 The ideas on this site are my own and do not reflect the opinion of my employer.

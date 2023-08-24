@@ -1,6 +1,6 @@
 ---
-title: 'Book log'
-subtitle: 'Recent books and audiobooks'
+title: 'book log'
+subtitle: 'recent books and audiobooks'
 date: '2023-08-23'
 ---
 

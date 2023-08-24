@@ -1,5 +1,5 @@
 ---
-title: '/now'
+title: 'now'
 subtitle: 'what I am up to lately'
 date: '2023-08-19'
 ---

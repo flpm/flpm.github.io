@@ -1,6 +1,6 @@
 ---
-title: 'To read list'
-subtitle: 'Books I want to read'
+title: 'to read list'
+subtitle: 'some books I want to read'
 date: '2023-08-23'
 ---
 
@@ -8,7 +8,7 @@ date: '2023-08-23'
 
 - Great Books: My adventures with Homer, Rousseau, Woolf and other indestructible writers of the western world, by David Denby
 - Language in Thoughts and Action, by S. I. Hayakawa and Alan R. Hayakawa
- 
+
 
 ### Audiobooks
 

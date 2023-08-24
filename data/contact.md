@@ -1,5 +1,5 @@
 ---
-title: '/contact'
+title: 'contact'
 subtitle: 'say hello!'
 date: '2023-08-19'
 ---

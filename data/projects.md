@@ -1,5 +1,5 @@
 ---
-title: '/projects'
+title: 'projects'
 subtitle: 'some stuff I have made'
 date: '2023-08-19'
 ---
