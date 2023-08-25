@@ -7,7 +7,7 @@ import FrameContent from "./frame_content";
 
 import { lightContentGridColor } from "../lib/grid_view";
 
-export const siteTitle = "flpm.dev | the personal site of Felipe Moreno";
+export const siteTitle = "flpm.dev | Felipe";
 
 export default function Layout({ title, children, gridClassName }) {
   return (
@@ -16,7 +16,7 @@ export default function Layout({ title, children, gridClassName }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Felipe Moreno | security + data + design"
+          content="Felipe Moreno | security + code + data + design"
         />
         <meta name="og:title" content={siteTitle} />\
         <title>{title || siteTitle}</title>
