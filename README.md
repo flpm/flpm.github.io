@@ -2,7 +2,7 @@
 
 This repository contains the new version of my personal website, hosted in GitHub Pages and accessible here: [https://flpm.dev](https://flpm.dev)
 
-![Screenshot of the site](https://raw.githubusercontent.com/flpm/flpm.dev/main/screenshot.png)
+![Screenshot of the site](./screenshot.png)
 
 ### The technology stack
 
