@@ -1,6 +1,6 @@
 ---
 title: 'contact'
-subtitle: 'say hello!'
+subtitle: 'reach out and say hello!'
 date: '2023-08-19'
 ---
 

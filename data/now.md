@@ -1,7 +1,12 @@
 ---
-title: 'now'
+title: '/now'
 subtitle: 'what I am up to lately'
 date: '2023-08-19'
+related:
+    - label: Books I read before
+      link: /notes/finished_books
+    - label: Books I want to read
+      link: /notes/books_to_read
 ---
 
 
@@ -20,9 +25,3 @@ date: '2023-08-19'
 - I have been very interested lately on linguistics, grammar, and writing.
 - I continue to (slowly) learn Latin.
 - I have also read a little about Liberal Arts education.
-
-
-----
-
-- [Books I read before](/notes/finished_books).
-- [Books I want to read](/notes/to_read).

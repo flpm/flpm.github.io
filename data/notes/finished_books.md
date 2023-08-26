@@ -1,7 +1,10 @@
 ---
-title: 'book log'
-subtitle: 'recent books and audiobooks'
+title: 'notes / books / finished'
+subtitle: 'the list of books and audiobooks I have finished'
 date: '2023-08-23'
+related:
+    - label: 'Books I want to read'
+      link: '/notes/books_to_read'
 ---
 
 
@@ -44,8 +47,3 @@ date: '2023-08-23'
 - Atypical: Life with Asperger’s in 20 and 1/3 chapters, by Jesse Saperstein
 - The Roman Empire: from Augustus to the fall of Rome (The Great Courses), by Gregory Aldrete (audio book)
 - Famous Romans (The Great Courses), by Professor J. Rufus Fears (audio book)
-
-
----
-
-- [Books I want to read](/notes/to_read)

@@ -1,6 +1,6 @@
 ---
 title: 'colophon'
-subtitle: 'how this site was built'
+subtitle: 'how I built and update this site'
 date: '2023-08-24'
 ---
 

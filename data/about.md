@@ -2,6 +2,14 @@
 title: 'about'
 subtitle: 'a bit more about me'
 date: '2023-08-20'
+related:
+    - label: What I am up to lately
+      link: /now
+    - label: More about this site
+      link: /notes/colophon
+    - label: Reach out and say hi!
+      link: /contact
+    
 ---
 
 ### Work
@@ -38,7 +46,3 @@ You can find more details on my [Github profile](https://github.com/flpm).
 ### Disclaimer
 
 The ideas on this site are my own and do not reflect the opinion of my employer.
-
----
-
-- What I am up to [now](/now).

@@ -8,6 +8,8 @@ import matter from "gray-matter";
 import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 import Link from "next/link";
 
+import { useRouter } from "next/router";
+
 export async function getStaticProps() {
   const dataDirectory = path.join(process.cwd(), "data");
   const fullPath = path.join(dataDirectory, `index.md`);
@@ -41,7 +43,7 @@ export default function Home({ data }) {
               {data.subtitle}
             </div>
           </div>
-          <div className="markdown-content text-2xl">
+          <div className="markdown-content text-xl">
             <ReactMarkdown
               components={{
                 a: ({ children, href }) => {

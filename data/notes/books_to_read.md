@@ -1,7 +1,10 @@
 ---
-title: 'to read list'
-subtitle: 'some books I want to read'
+title: 'notes / books to read'
+subtitle: 'the books and audiobooks I want to start next'
 date: '2023-08-23'
+related:
+    - label: 'Books I read before'
+      link: '/notes/finished_books'
 ---
 
 ### Books
@@ -32,7 +35,3 @@ date: '2023-08-23'
 - Pax Romana, by Adrian Goldsworthy
 - Plato, Socrates and the Dialogues (The Great Courses), by Michael Sugrue
 - Greek Tragedy (The Great Courses), by Elizabeth Vandiver
-
----
-
-- [Books I read before](/notes/finished_books)
