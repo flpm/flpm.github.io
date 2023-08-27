@@ -13,12 +13,12 @@ related:
 ### Reading and listening to
 
 - (paperback) Rescuing Socrates, by Roosevelt Montás
-- (audiobook) The Skeptic's Guide to Great Books (The Great Courses), by Grant L. Voth
+- (audiobook) 36 Books That Changed the Word (The Great Courses)
 
 ### Working on
 
 - The new website: working on a way to automate content publishing so I can write from my phone and have the site updated with minimal interaction.
-- Bookshelf project: working on cataloguing and mapping the books and audiobooks I own to a timeline.
+- Bookshelf project: working on cataloguing the books and audiobooks I own and mapping them to a timeline.
 
 ### Current interests
 
