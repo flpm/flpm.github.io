@@ -8,7 +8,7 @@ I work in the intersection of software engineering, information security and des
 
 This site contains my side
 [projects](/projects) and notes. You can also find more
-[about](/about) me and what I am up to [now](/now).
+[about me](/about) and what I am up to [now](/now).
 
 I use [Obsidian](https://obsidian.md/), an open-source app, to write and publish content to
 the site via GitHub. If you are curious about how it all works, take

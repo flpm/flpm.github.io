@@ -32,4 +32,4 @@ The site code and content are stored in a repository in [GitHub](http://github.c
 
 ### Updating the site
 
-I write new content for the site directly from my phone, using [Obsidian](https://obsidian.md/). If I need to fix small issues in the code, I use [Textastic](https://www.textasticapp.com/). I use [Working Copy](https://workingcopyapp.com/) as a Git client and the site is built and published when the main branch is pushed to GitHub.
+I write new content for the site directly from my phone. I use [Obsidian](https://obsidian.md/) to edit the markdown files and [Textastic](https://www.textasticapp.com/) if I need to fix small issues in the JavaScript code. I use [Working Copy](https://workingcopyapp.com/), a git client, to push changes up to Github, which triggers a CI workflow that builds and publishes the site to GitHub Pages.

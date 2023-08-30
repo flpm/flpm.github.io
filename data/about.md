@@ -14,16 +14,16 @@ related:
 
 ### Work
 
-I'm an experienced engineering team lead with a strong background in information security, software development, data science and design. Right now, my focus is on improving situational awareness, finding ways to help security analysts and engineers make faster and more accurate decisions to improve security processes.
+I'm an experienced engineering lead with a strong background in information security, software development, data science and design. Right now, my focus is on improving situational awareness, finding ways to help security analysts and engineers make faster and more accurate decisions to improve security processes.
 
-You can find more details on my [LinkedIn profile](https://linkedin.com/in/felipemoreno).
+You can find more on my [LinkedIn profile](https://linkedin.com/in/felipemoreno).
 
 ### Coding
 
 - Python
 - JavaScript (React)
 
-You can find more details on my [Github profile](https://github.com/flpm).
+You can find more on my [Github profile](https://github.com/flpm).
 
 ### Places I have lived
 
