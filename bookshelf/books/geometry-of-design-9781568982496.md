@@ -1,0 +1,28 @@
+---
+full_title: Geometry of Design
+subtitle: Studies in Proportion and Composition
+title: Geometry of Design
+topics:
+- Design
+date_published: '2001-01-01'
+authors:
+- Kimberly Elam
+publisher: Princeton Architectural Press
+format: ''
+language: en
+source: Bookshelf
+cover:
+  filename: book_73.jpg
+  media_type: data:image/false;base64
+length: '107'
+type: null
+link: null
+date: null
+asin: '9781568982496'
+rating: {}
+order_summary: null
+tags:
+- humanities.visual_arts.graphic_design
+- humanities.visual_arts.graphic_design.layout
+---
+This work takes a close look at a broad range of 20th-century examples of design, architecture and illustration, revealing underlying geometric structures in their compositions.
