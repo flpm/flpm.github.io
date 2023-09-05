@@ -1,7 +1,7 @@
 ---
 full_title: 'Color Design Workbook: A Real World Guide to Using Color in Graphic Design'
 subtitle: A Real World Guide to Using Color in Graphic Design
-title: 'Color Design Workbook: A Real World Guide to Using Color in Graphic Design'
+title: 'Color Design Workbook:'
 topics:
 - Graphic Design
 date_published: '2008-03-01'
@@ -10,8 +10,8 @@ authors:
 - Sean Adams
 - Noreen Morioka
 publisher: Rockport Publishers
-format: paperback
-language: en
+format: Paperback
+language: English
 source: Bookshelf
 cover:
   filename: book_57.jpg
@@ -19,7 +19,7 @@ cover:
 length: '240'
 type: new
 link: null
-date: '2008-04-25T22:55:09Z'
+date: '2008-04-25'
 asin: '9781592534333'
 rating: {}
 order_summary:

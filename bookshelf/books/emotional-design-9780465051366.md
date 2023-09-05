@@ -1,15 +1,15 @@
 ---
 full_title: 'Emotional Design: Why We Love (or Hate) Everyday Things'
 subtitle: Why We Love (or Hate) Everyday Things
-title: 'Emotional Design: Why We Love (or Hate) Everyday Things'
+title: 'Emotional Design:'
 topics:
 - Industrial / Commercial Art & Design
 date_published: '2005-05-11'
 authors:
 - Don Norman
 publisher: Basic Books
-format: paperback
-language: en
+format: Paperback
+language: English
 source: Bookshelf
 cover:
   filename: book_59.jpg

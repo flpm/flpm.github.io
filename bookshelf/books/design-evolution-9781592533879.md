@@ -9,8 +9,8 @@ date_published: '2008-01-01'
 authors:
 - Timothy Samara
 publisher: Rockport Pub
-format: ''
-language: en
+format: Book
+language: English
 source: Bookshelf
 cover:
   filename: book_40.jpg
@@ -18,7 +18,7 @@ cover:
 length: '286'
 type: new
 link: null
-date: '2009-11-25T21:13:17Z'
+date: '2009-11-25'
 asin: '9781592533879'
 rating: {}
 order_summary:

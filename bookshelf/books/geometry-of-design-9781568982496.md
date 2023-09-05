@@ -8,8 +8,8 @@ date_published: '2001-01-01'
 authors:
 - Kimberly Elam
 publisher: Princeton Architectural Press
-format: ''
-language: en
+format: Book
+language: English
 source: Bookshelf
 cover:
   filename: book_73.jpg
