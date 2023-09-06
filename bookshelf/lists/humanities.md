@@ -1,0 +1,259 @@
+---
+title: Humanities Books
+items:
+  - title: null
+    books:
+     - 9780140278736.md  # Penguin Essentials Animal Farm
+     - B00DDXQ61S.md  # Myth in Human History
+     - 9781984859549.md  # The Young Adventurer's Collection [Dungeons & Dragons 4-Book Boxed Set]
+     - 9782205053326.md  # La Voleuse du Père-Fauteuil, Tome 2 : Les Heures Noires
+     - 9788497594257.md  # Un mundo feliz / Brave New World
+     - 9780894121937.md  # Cryptanalysis of the Single Columnar Transposition Cipher
+     - 9786555873399.md  # O HOMEM QUE CALCULAVA (EDIÇÃO COMEMORATIVA)
+     - 9781940094984.md  # Little Wizards Second Printing
+     - 9788483009512.md  # Digue'm agosarat. Els monòlegs
+     - 9782070408368.md  # L'homme qui regardait passer les trains
+     - 9783791321448.md  # Through the Labyrinth
+     - 9780714150215.md  # The Rosetta Stone
+     - 9780500288993.md  # The Complete Roman Army
+     - B00DC8CFZK.md  # Herodotus
+     - 9780316779234.md  # Holidays on Ice
+     - 9781541644533.md  # How to Be a Stoic:
+     - 9788420635484.md  # El Imperio Romano
+     - 9788445071762.md  # Las dos torres (El Señor de los Anillos, #2)
+     - 125075044X.md  # Long Live Latin
+     - 9782070417681.md  # Les Trois Mousquetaires
+     - 9782877726351.md  # Le Génie civil de l'armée romaine
+     - 9782203030466.md  # Griffu
+     - 0063066734.md  # Hercule Poirot: The Complete Short Stories: A Hercule Poirot Collection with Foreword by Charles Todd (Hercule Poirot Mysteries) (Unabridged)
+     - 9782877726894.md  # Le Génie maritime romain
+     - 9788571644113.md  # Caminhos e fronteiras (Portuguese Edition)
+     - 9780061748363.md  # The Visual Miscellaneum:
+     - 9781608460021.md  # Essays
+     - 9788420691060.md  # La República Romana
+     - B01BW37O5C.md  # Memories, Dreams, Reflections (Unabridged)
+     - 9780262015486.md  # Helvetica and the New York City Subway System
+     - 9780312130664.md  # An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural: James Randi's Decidedly Skeptical Definitions of Alternate Realities
+     - 9780575046061.md  # Guards! Guards! (Discworld, #8)
+     - 9780500286609.md  # Story Of Writing Second Edition
+     - 9781785511837.md  # Roman Art
+     - 9789722019569.md  # Tocaia Grande - A Face Obscura
+     - B00D7JMGEY.md  # Alexander the Great and the Hellenistic Age
+     - B00F52DXH0.md  # Writing and Civilization
+     - 9788466306782.md  # Tinto de verano (Tinto de verano #1)
+     - 9780786966011.md  # Volo's Guide to Monsters
+     - 9782205051926.md  # (Les Formidables Aventures De Lapinot, #5)
+     - 9780143120254.md  # Paris versus New York
+     - 9780575055032.md  # Men at Arms (Discworld, #15)
+     - 9781616895280.md  # The Book of Circles: Visualizing Spheres of Knowledge: (with over 300 beautiful circular artworks, infographics and illustrations from across history)
+     - 9788520924556.md  # A grande arte
+     - 9782253096337.md  # Les Misérables : Tome I
+     - B07MDHVBLY.md  # The Roman Empire
+     - B00MXDGT2A.md  # Augustus
+     - 9780879236366.md  # Letters of Credit: A View of Type Design
+     - 9780735711655.md  # MTIV Process, Inspiration and Practice for the New Media Designer
+     - B06XWYMP73.md  # Believe Me
+     - B002V8KXYC.md  # Julius Caesar
+     - 9781631597480.md  # Universal Methods of Design Expanded and Revised:
+     - 9782205053852.md  # La vie comme elle vient (Les Formidables Aventures De Lapinot, #8)
+     - 9780684801377.md  # D-Day: June 6, 1944:  The Climactic Battle of World War II
+     - 9781541699250.md  # Cannae:
+     - 9781984858788.md  # Beasts & Behemoths (Dungeons & Dragons)
+     - 9780961392116.md  # Envisioning Information
+     - 9782711841103.md  # Hiéroglyphes
+     - 9781491949641.md  # Why:
+     - 9780486200972.md  # Cryptanalysis:
+     - 9781568980898.md  # Dimensional Typography:
+     - 1977330053.md  # The Fall of Carthage
+     - 9781568982496.md  # Geometry of Design
+     - 9780192801814.md  # Art History: A Very Short Introduction
+     - 9780345457684.md  # Altered Carbon
+     - 9781568989792.md  # Graphic Design Thinking: Beyond Brainstorming (renowned designer Ellen Lupton provides new techniques for creative thinking about design process with examples and case studies)
+     - 9780307947307.md  # The Stand
+     - B00XP3CMHI.md  # Living History
+     - 9781912891160.md  # The School of Life:
+     - B01865AOJW.md  # SPQR
+     - 9780751504835.md  # Something Under the Bed Is Drooling
+     - 9782205050059.md  # Amour & Intérim (Les Formidables Aventures De Lapinot, #4)
+     - B06VSQVPCY.md  # Shrinking Violets
+     - 9781476733951.md  # Wool (Silo, #1)
+     - 9780812968255.md  # Meditations
+     - 9780975366264.md  # Nonsense:
+     - 9783931141967.md  # Francesca Woodman
+     - 9782205049886.md  # La Couleur de l'Enfer (Les Formidables Aventures De Lapinot, #7)
+     - 9788520906842.md  # Antonio Carlos Jobim: Um Homem Iluminado
+     - B008ELXJD2.md  # Death on the Nile
+     - 9788420635507.md  # Los Egipcios
+     - 9780691166407.md  # Three Stones Make a Wall:
+     - 9788423919468.md  # Poeta En Nueva York
+     - 9780552142373.md  # Feet Of Clay
+     - 9781566562935.md  # Samarkand
+     - 9788433966698.md  # Suicidios ejemplares
+     - 9780060502935.md  # Going Postal
+     - 9781541673854.md  # Meditations:
+     - 9781568821818.md  # Call of Cthulhu: Horror Roleplaying (Call of Cthulhu RPG)
+     - 9788501005588.md  # 
+     - 9780881792065.md  # The Elements of Typographic Style
+     - 9780836218527.md  # The Calvin and Hobbes Lazy Sunday Book
+     - 9781941628232.md  # The Best of Brevity
+     - 9788501058331.md  # A Muralha
+     - 9780553394702.md  # Magnetic City
+     - 9781457186837.md  # Getting Started with Processing.py: Making Interactive Graphics with Processing's Python Mode (Make:)
+     - 9780262542043.md  # Code as Creative Medium
+     - 9781416569909.md  # The City Out My Window:
+     - 9781950911066.md  # Cyberpunk RED
+     - 9781592530076.md  # Universal Principles of Design:
+     - 9780552145428.md  # Hogfather
+     - 9788420637440.md  # Los griegos
+     - 9780879239503.md  # An Essay on Typography
+     - B00LG7MR20.md  # Cities of the Ancient World
+     - B00DC5SB06.md  # The Greek and Persian Wars
+     - 9781421505947.md  # Starting Point: 1979-1996
+     - 9782070424832.md  # Vingt mille lieues sous les mers
+     - 9780262540292.md  # A Primer of Visual Literacy
+     - 9781616890773.md  # Generative Design: Visualize, Program, and Create with Processing
+     - 9780714838519.md  # Design Writing Research
+     - 9780786714018.md  # Hiding the Elephant
+     - 9782203396098.md  # Le Journal de mon Père
+     - 9781568984483.md  # Thinking with Type
+     - 9780907259343.md  # Detail In Typography
+     - 9780786965618.md  # Dungeons & Dragons Monster Manual (Core Rulebook, D&D Roleplaying Game)
+     - 9781930824157.md  # Visual Explanations:
+     - 9781616892197.md  # Visual Complexity:  (history of information and data visualization and guide to today's innovative applications)
+     - 9781568987606.md  # Indie Publishing: How to Design and Publish Your Own Book
+     - 9781616890582.md  # Cartographies of Time
+     - 9780571081820.md  # Rosencrantz and Guildenstern Are Dead
+     - 9788501041616.md  # A Descoberta Da America Pelos Turcos: Romancinho
+     - 9788437610979.md  # Hamlet
+     - 9788432217074.md  # Ventanas De Manhattan
+     - 9782080812988.md  # L'Histoire commence à Sumer
+     - 9780881791549.md  # A Short History of the Printed Word
+     - 9780880387163.md  # Player's Handbook (Advanced Dungeons & Dragons, Stock #2101)
+     - 9781840915457.md  # How To Design a House
+     - 9780140126716.md  # Nineteen Eighty Four
+     - 9788433968517.md  # París no se acaba nunca
+     - 9788433924889.md  # El último libro de Sergi Pàmies
+     - 9782070313020.md  # Moi Asimov
+     - 9782205052589.md  # Pour de vrai (Les Formidables Aventures De Lapinot, #6)
+     - 9780061092176.md  # Small Gods (Discworld, #13)
+     - 9788445071779.md  # El retorno del rey (El señor de los anillos, #3)
+     - 9782205055641.md  # Âme rouge (Blacksad, #3)
+     - 9780553563702.md  # The Hacker Crackdown
+     - 9788420482279.md  # ¿Qué me quieres, amor?
+     - 9782070361038.md  # Zazie dans le métro
+     - 9781945025006.md  # Outside the Board
+     - 9781594205224.md  # How Not to Be Wrong
+     - 9781592533879.md  # Design Evolution
+     - B08ZYXLTYG.md  # Beginner's Mind
+     - 9780575059009.md  # Feet of Clay (Discworld, #19)
+     - 9780880387293.md  # Dungeon Master's Guide (Advanced Dungeons & Dragons, Stock #2100)
+     - 9788571642829.md  # Paratii: Entre Dois Polos
+     - 9780415327732.md  # Philosophy: The Basics
+     - 9780593465271.md  # The Hill We Climb
+     - 9781416507789.md  # The Cuckoo's Egg:
+     - 9781568987729.md  # Graphic Design Theory:
+     - 9788501009418.md  # CACAU - 05 ED
+     - 9789725684573.md  # o primo basilio
+     - 9788531405921.md  # História concisa do Brasil
+     - 9782253051206.md  # Samarcande (ldp Litterature) (french Edition)
+     - 9780199595181.md  # Discourses, Fragments, Handbook
+     - 9788484502623.md  # La tabla de Flandes / The Flanders Panel
+     - B00DG7NVXC.md  # Classical Archaeology of Ancient Greece and Rome
+     - 9781631596315.md  # Layout Essentials Revised and Updated:
+     - 9788437604572.md  # Rayuela
+     - 9782203372382.md  # Quartier lointain (Quartier lointain, #2)
+     - 9782203399327.md  # Nestor Burma: Le Soleil naît derrière le Louvre
+     - 9783836545303.md  # LOGO Modernism
+     - 1644650649.md  # Think like a Stoic
+     - 9780743200790.md  # Failure Is Not an Option:
+     - 9780552140287.md  # Men At Arms
+     - 9788576655299.md  # Uma Breve História do Brasil
+     - 9781449388393.md  # Hackers: Heroes of the Computer Revolution
+     - 9788423974030.md  # Rimas y leyendas
+     - 9788501053145.md  # Suor
+     - 9780786718061.md  # Art and Artifice and Other Essays of Illusion
+     - B00DEK3UAU.md  # Greece and Rome
+     - 9780786712267.md  # Hiding the Elephant
+     - 9781930824164.md  # Beautiful Evidence
+     - 9780316143479.md  # When You Are Engulfed in Flames
+     - 9781568987651.md  # Lettering & Type: Creating Letters and Designing Typefaces
+     - 9781585104024.md  # By Roman Hands
+     - 9782253144243.md  # Les Échelles du Levant
+     - 9782711837564.md  # Les Dieux de l'Egypte : Petit dictionnaire illustré
+     - B00D8G1DPO.md  # Famous Romans
+     - 9780300111507.md  # Designing Type
+     - 9782864973423.md  # La Fille de Vercingétorix (Astérix, #38)
+     - 9788535904802.md  # Ensaio sobre a lucidez
+     - 9780679779155.md  # How Proust Can Change Your Life
+     - B00MFQLERK.md  # Caesar
+     - 9780691163475.md  # The Atlas of Ancient Rome:  - Two-Volume Slipcased Set
+     - 9780008348090.md  # Secret Vice, A
+     - 9788423972685.md  # El Rey Lear
+     - 9781787734654.md  # Snowpiercer 1-3 Boxed Set
+     - B002V1A0WE.md  # On Writing
+     - 9781419727726.md  # The Good Neighbor:
+     - 9780385348249.md  # So, Anyway...
+     - 9781568987026.md  # Graphic Design:
+     - B002V1BPOQ.md  # Winnie-the-Pooh
+     - 9781592534333.md  # Color Design Workbook:
+     - 9781616895129.md  # Labyrinths & Mazes:  (includes 250 photographs of ancient and modern labyrinths and mazes from around the world)
+     - 197734996X.md  # The Fires of Vesuvius
+     - 9781589482616.md  # Semiology of Graphics
+     - 9780062872968.md  # Why Design Matters
+     - 9788535906172.md  # Assassinatos Na Academia Brasileira De Letras
+     - 9788408093107.md  # La sombra del viento
+     - 9781984858801.md  # Dragons & Treasures
+     - 9788535920772.md  # Navegacao de Cabotagem: Apontamentos Para Um Livro de Memorias Que Jamais Escreverei
+     - 9780192801791.md  # Architecture: A Very Short Introduction
+     - 9781600610486.md  # The Information Design Handbook
+     - 9780802150646.md  # Three Plays: Once in a Lifetime / You Can't Take it With You / The Man Who Came to Dinner
+     - B00D99PNKQ.md  # Classical Mythology
+     - 9788420442280.md  # La caverna
+     - 9782253096344.md  # Les Misérables : Tome II
+     - 9781616895327.md  # Dear Data
+     - 9780571200580.md  # Faber Classics New York Trilogy
+     - 9780140442106.md  # Letters from a Stoic
+     - 9780714119106.md  # How to read Egyptian hieroglyphs: A step-by-step guide to teach yourself
+     - 9780140252552.md  # The Penguin History of the USA
+     - 9780143112624.md  # The Varieties of Scientific Experience
+     - 9782205054064.md  # L'Accélérateur Atomique (Les Formidables Aventures De Lapinot, #9)
+     - 9781560761075.md  # Tome of Magic (Advanced Dungeon & Dragons: Accessory Rulebook)
+     - B00DB92ATG.md  # Great Battles of the Ancient World
+     - 9782205050080.md  # (Les Formidables Aventures De Lapinot, #2)
+     - 9780140294255.md  # The Essential Groucho
+     - B008RBDG46.md  # The Under Dog and Other Stories
+     - 9780321703538.md  # Ordering Disorder: Grid Principles for Interaction Design
+     - 9781107675698.md  # From Caesar to Augustus (C. 49 BC-AD 14):
+     - 9780593465066.md  # The Hill We Climb and Other Poems
+     - 9780520253865.md  # The Poems of Catullus
+     - B07FB135GG.md  # How to Think Like a Roman Emperor
+     - 9782070422524.md  # Notre-Dame de Paris
+     - 9788571641143.md  # A Grande Arte
+     - 9780836220629.md  # The Far Side Gallery
+     - 9780961392147.md  # The Visual Display of Quantitative Information
+     - 9782253041931.md  # Léon l'Africain
+     - 9782070367627.md  # Paroles
+     - 9788432217104.md  # La ciudad de los prodigios
+     - 9780786966950.md  # Dungeons & Dragons Spellbook Cards:  (D&D Accessory)
+     - 9781606064665.md  # Latin Inscriptions: Ancient Scripts
+     - 9781421560908.md  # Turning Point: 1997-2008
+     - 9781566568968.md  # The Roman Provence Guide (Interlink Guide)
+     - B08M93Q9SP.md  # Road Trip Elegies: Montreal to New York: Words + Music | Vol. 9
+     - 9780399535727.md  # Atypical
+     - 9781585102327.md  # Lingua Latina: Caesaris: Commentarii De Bello Gallico I (partial), IV, V (Latin Edition)
+     - 9781956403398.md  # The Game Master's Book of Random Encounters (Special Edition)
+     - B078HDSHQJ.md  # The Rise of Rome
+     - 9780544173767.md  # The Princess Bride
+     - 9780415337984.md  # Philosophy:
+     - 9788483062784.md  # Los Códigos Secretos
+     - 9788445071403.md  # La comunidad del anillo (El señor de los anillos, #1)
+     - 9780786965601.md  # Dungeons & Dragons Player's Handbook (Core Rulebook, D&D Roleplaying Game)
+     - 9781568822112.md  # Mansions of Madness:  (Call of Cthulhu RPG)
+     - 9780547928241.md  # The Hobbit
+     - 9781849057578.md  # Nerdy, Shy, and Socially Inappropriate:
+     - 9782203372344.md  # Quartier lointain (Quartier Lointain, #1)
+     - B06WLMWF2S.md  # Sherlock Holmes (Unabridged)
+     - 9782253933151.md  # Oblomov
+     - B008EUR8O4.md  # Poirot Investigates
+---
+

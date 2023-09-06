@@ -1,0 +1,46 @@
+---
+title: Graphic Design Books
+items:
+  - title: null
+    books:
+     - 9780061748363.md  # The Visual Miscellaneum:
+     - 9780262015486.md  # Helvetica and the New York City Subway System
+     - 9781616895280.md  # The Book of Circles: Visualizing Spheres of Knowledge: (with over 300 beautiful circular artworks, infographics and illustrations from across history)
+     - 9780879236366.md  # Letters of Credit: A View of Type Design
+     - 9780735711655.md  # MTIV Process, Inspiration and Practice for the New Media Designer
+     - 9781631597480.md  # Universal Methods of Design Expanded and Revised:
+     - 9780961392116.md  # Envisioning Information
+     - 9781568980898.md  # Dimensional Typography:
+     - 9781568982496.md  # Geometry of Design
+     - 9781568989792.md  # Graphic Design Thinking: Beyond Brainstorming (renowned designer Ellen Lupton provides new techniques for creative thinking about design process with examples and case studies)
+     - 9780881792065.md  # The Elements of Typographic Style
+     - 9781457186837.md  # Getting Started with Processing.py: Making Interactive Graphics with Processing's Python Mode (Make:)
+     - 9780262542043.md  # Code as Creative Medium
+     - 9781592530076.md  # Universal Principles of Design:
+     - 9780879239503.md  # An Essay on Typography
+     - 9780262540292.md  # A Primer of Visual Literacy
+     - 9781616890773.md  # Generative Design: Visualize, Program, and Create with Processing
+     - 9781568984483.md  # Thinking with Type
+     - 9780907259343.md  # Detail In Typography
+     - 9781930824157.md  # Visual Explanations:
+     - 9781616892197.md  # Visual Complexity:  (history of information and data visualization and guide to today's innovative applications)
+     - 9781568987606.md  # Indie Publishing: How to Design and Publish Your Own Book
+     - 9781616890582.md  # Cartographies of Time
+     - 9780881791549.md  # A Short History of the Printed Word
+     - 9781592533879.md  # Design Evolution
+     - 9781568987729.md  # Graphic Design Theory:
+     - 9781631596315.md  # Layout Essentials Revised and Updated:
+     - 9783836545303.md  # LOGO Modernism
+     - 9781930824164.md  # Beautiful Evidence
+     - 9781568987651.md  # Lettering & Type: Creating Letters and Designing Typefaces
+     - 9780300111507.md  # Designing Type
+     - 9781568987026.md  # Graphic Design:
+     - 9781592534333.md  # Color Design Workbook:
+     - 9781589482616.md  # Semiology of Graphics
+     - 9780062872968.md  # Why Design Matters
+     - 9781600610486.md  # The Information Design Handbook
+     - 9781616895327.md  # Dear Data
+     - 9780321703538.md  # Ordering Disorder: Grid Principles for Interaction Design
+     - 9780961392147.md  # The Visual Display of Quantitative Information
+---
+

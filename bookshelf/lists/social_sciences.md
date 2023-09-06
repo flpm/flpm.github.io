@@ -1,0 +1,86 @@
+---
+title: Social Sciences Books
+items:
+  - title: null
+    books:
+     - 9781933820118.md  # Interviewing Users:
+     - 9780714150215.md  # The Rosetta Stone
+     - 125075044X.md  # Long Live Latin
+     - 9782877726351.md  # Le Génie civil de l'armée romaine
+     - B00NJ58OWE.md  # No-Drama Discipline
+     - 9782877726894.md  # Le Génie maritime romain
+     - 9780061748363.md  # The Visual Miscellaneum:
+     - B01BW37O5C.md  # Memories, Dreams, Reflections (Unabridged)
+     - B07DHSQL6Q.md  # Make Time
+     - 9780262015486.md  # Helvetica and the New York City Subway System
+     - 9780312130664.md  # An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural: James Randi's Decidedly Skeptical Definitions of Alternate Realities
+     - 9780500286609.md  # Story Of Writing Second Edition
+     - 9781785511837.md  # Roman Art
+     - B00D7JMGEY.md  # Alexander the Great and the Hellenistic Age
+     - B00F52DXH0.md  # Writing and Civilization
+     - 9780520061156.md  # Cuneiform
+     - 9781118143308.md  # Liars and Outliers:
+     - 9780374533557.md  # Thinking, Fast and Slow
+     - B00MXDGT2A.md  # Augustus
+     - 9780735711655.md  # MTIV Process, Inspiration and Practice for the New Media Designer
+     - 9780670020478.md  # The Element
+     - 9781631597480.md  # Universal Methods of Design Expanded and Revised:
+     - 9780961392116.md  # Envisioning Information
+     - 9782711841103.md  # Hiéroglyphes
+     - 9781568989792.md  # Graphic Design Thinking: Beyond Brainstorming (renowned designer Ellen Lupton provides new techniques for creative thinking about design process with examples and case studies)
+     - 9781475246636.md  # The Grammar of Romance: A Comparative Introduction to Vulgar Latin & the Romance Languages
+     - 9781912891160.md  # The School of Life:
+     - B06VSQVPCY.md  # Shrinking Violets
+     - 9780975366264.md  # Nonsense:
+     - 9781585104208.md  # Lingua Latina per se Illustrata: Pars I: Familia Romana (Lingua Latina per se Illustrata)
+     - 9780691166407.md  # Three Stones Make a Wall:
+     - 9780345472328.md  # Mindset
+     - 9782706110443.md  # Petit traité de manipulation à l'usage des honnêtes gens
+     - 9781592530076.md  # Universal Principles of Design:
+     - 9780486410876.md  # Magic and Showmanship: A Handbook for Conjurers
+     - 9781118790816.md  # Carry On:
+     - B00O1GCA5M.md  # The Elements of Eloquence
+     - 9781493000609.md  # The Art of the Con: Spotting and Avoiding the World's Classic Scams
+     - 9781684224128.md  # Psychology of Intelligence Analysis
+     - 9780714838519.md  # Design Writing Research
+     - 9781107602700.md  # The Psychology of Risk
+     - 9781930824157.md  # Visual Explanations:
+     - 9780142181072.md  # Emotional First Aid
+     - 9781840915457.md  # How To Design a House
+     - 9780140277821.md  # UC Difficult Conversations
+     - 9781592533879.md  # Design Evolution
+     - B01D3AC5BA.md  # Grit
+     - B00DG7NVXC.md  # Classical Archaeology of Ancient Greece and Rome
+     - 9781449388393.md  # Hackers: Heroes of the Computer Revolution
+     - 9788466318884.md  # La fuerza del optimismo
+     - 9788478809240.md  # Guia Practica de Psicologia
+     - 9780786718061.md  # Art and Artifice and Other Essays of Illusion
+     - B00TP2UMTS.md  # Thinking Statistically (Unabridged)
+     - 9781593276201.md  # Statistics Done Wrong
+     - 9781400077427.md  # Stumbling on Happiness
+     - 9781930824164.md  # Beautiful Evidence
+     - 9780954413217.md  # IDEO Method Cards: 51 Ways to Inspire Design
+     - 9781585104024.md  # By Roman Hands
+     - 9781400078394.md  # Learned Optimism
+     - 9781629561011.md  # Everydata: The Misinformation Hidden in the Little Data You Consume Every Day
+     - 9782711837564.md  # Les Dieux de l'Egypte : Petit dictionnaire illustré
+     - 9780465051366.md  # Emotional Design:
+     - 9780008348090.md  # Secret Vice, A
+     - 9781544374260.md  # Critical Thinking for Strategic Intelligence
+     - 9781107420984.md  # The Anthropology of Childhood: Cherubs, Chattel, Changelings
+     - 197734996X.md  # The Fires of Vesuvius
+     - 9780714119106.md  # How to read Egyptian hieroglyphs: A step-by-step guide to teach yourself
+     - 9780898621280.md  # Mind Over Mood: Change How You Feel By Changing the Way You Think
+     - 9781841121253.md  # Out of Our Minds: Learning to Be Creative
+     - 9780321703538.md  # Ordering Disorder: Grid Principles for Interaction Design
+     - B00466Z4JQ.md  # Comebacks at Work
+     - 9780961392147.md  # The Visual Display of Quantitative Information
+     - 9781606064665.md  # Latin Inscriptions: Ancient Scripts
+     - 9781119085294.md  # How to Measure Anything in Cybersecurity Risk
+     - 9780399535727.md  # Atypical
+     - 9780142001103.md  # The Art of Possibility
+     - 9780199246359.md  # A Practical Introduction to Phonetics
+     - B003TFSY7E.md  # Naked Economics
+     - 9781849057578.md  # Nerdy, Shy, and Socially Inappropriate:
+---
+
