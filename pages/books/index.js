@@ -35,6 +35,11 @@ export default function Bookshelf({ data }) {
               A catalogue of my books and audiobooks
             </div>
           </div>
+          <div className="markdown-content text-xl">
+            You can find{" "}
+            <Link href="/books/by_languages">books by language</Link> and{" "}
+            <Link href="/books/by_subjects">books by subject</Link>
+          </div>
         </div>
         <div>
           {data.map((book) => {
