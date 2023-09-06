@@ -131,3 +131,6 @@ dist
 
 # obsidian
 .obsidian
+
+# python
+venv
