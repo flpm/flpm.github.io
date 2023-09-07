@@ -1,6 +1,6 @@
 ---
-title: 'about'
-subtitle: 'a bit more about me'
+title: 'About'
+subtitle: 'A bit more about me'
 date: '2023-08-20'
 related:
     - label: What I am up to lately

@@ -26,7 +26,7 @@ export default function Layout({ title, children, gridClassName }) {
           siteMenu={[
             ["now", "/now"],
             ["about", "/about"],
-            //["notes", "/notes"],
+            ["books", "/books"],
             ["projects", "/projects"],
           ]}
           siteName="flpm.dev"

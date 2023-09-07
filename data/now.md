@@ -1,6 +1,6 @@
 ---
-title: '/now'
-subtitle: 'what I am up to lately'
+title: 'Now'
+subtitle: 'What I am up to lately'
 date: '2023-08-19'
 related:
     - label: Books I read before

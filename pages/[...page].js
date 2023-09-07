@@ -55,7 +55,7 @@ export default function Page({ data }) {
       >
         <div className="py-[6rem] ">
           <div className={`${openSans.className} text-6xl font-semibold pb-12`}>
-            {router.query.page.map((x) => x.replaceAll("_", " ")).join(" / ")}
+            {data.title}
             <div className={`${openSans.className} text-5xl pt-4 font-light`}>
               {data.subtitle}
             </div>

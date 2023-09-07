@@ -1,6 +1,6 @@
 ---
-title: 'notes'
-subtitle: 'things I am thinking about'
+title: 'Notes'
+subtitle: 'Various things I am thinking about'
 date: '2023-08-23'
 ---
 
