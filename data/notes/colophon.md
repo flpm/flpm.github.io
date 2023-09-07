@@ -1,12 +1,12 @@
 ---
-title: 'colophon'
-subtitle: 'how I built and update this site'
+title: 'Colophon'
+subtitle: '(or how I built and update this site)'
 date: '2023-08-24'
 ---
 
 ### The technology stack
 
-This site is a React application written in JavaScript and built using the [next.js](http://nextjs.org) framework. It uses the static generation option, so the HTML is rendered at build time. 
+This site is a React application written in JavaScript and built using the [Next.js](http://nextjs.org) framework. It uses the static generation option, so the HTML is rendered at build time. 
 
 ### CSS and Styling
 
@@ -24,12 +24,12 @@ I wrote the code using [Visual Studio Code](https://code.visualstudio.com/) on m
 
 ### Content
 
-The content is not part of the JavaScript code, it is written in Markdown files. Most of the content was written using [Obsidian](https://obsidian.md/), an open-source app from both my laptop (Linux) and my phone (iOS).
+The content is not part of the JavaScript code, it is written in Markdown files. Most of the content was written using [Obsidian](https://obsidian.md/), an open-source app, from both my laptop (Linux) or my phone (iOS).
 
 ### Publishing
 
-The site code and content are stored in a repository in [GitHub](http://github.com) and hosted in GitHub Pages. The site is built and published using GitHub Action when the main branch is pushed up.
+The site code and content are stored in a [repository in GitHub](https://github.com/flpm/flpm.github.io/) and hosted in GitHub Pages. The site is built and published using CI [workflow](https://github.com/flpm/flpm.github.io/blob/main/.github/workflows/deploy.yml) that triggers the main branch is pushed up.
 
 ### Updating the site
 
-I write new content for the site directly from my phone. I use [Obsidian](https://obsidian.md/) to edit the markdown files and [Textastic](https://www.textasticapp.com/) if I need to fix small issues in the JavaScript code. I use [Working Copy](https://workingcopyapp.com/), a git client, to push changes up to Github, which triggers a CI workflow that builds and publishes the site to GitHub Pages.
+I update the site's content directly from my phone, using [Obsidian](https://obsidian.md/) to edit the markdown files and [Textastic](https://www.textasticapp.com/) to make smaller edits to the JavaScript code. I use [Working Copy](https://workingcopyapp.com/), a git client, to push changes up to Github (which triggers the build and deploy workflow).
