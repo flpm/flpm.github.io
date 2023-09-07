@@ -29,9 +29,9 @@ export default function Bookshelf({ data }) {
         className="flex flex-col"
       >
         <div className="py-[6rem] ">
-          <div className={`${openSans.className} text-8xl font-semibold pb-12`}>
+          <div className={`${openSans.className} text-6xl font-semibold pb-12`}>
             Personal Bookshelf
-            <div className={`${openSans.className} text-6xl pt-4 font-light`}>
+            <div className={`${openSans.className} text-5xl pt-4 font-light`}>
               A catalogue of my books and audiobooks
             </div>
           </div>
