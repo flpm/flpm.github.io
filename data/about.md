@@ -34,7 +34,7 @@ You can find more on my [Github profile](https://github.com/flpm).
 
 ### Languages I speak
 
-- English (fluet)
+- English (fluent)
 - Portuguese (fluent)
 - Spanish (fluent)
 - French (fluent)
