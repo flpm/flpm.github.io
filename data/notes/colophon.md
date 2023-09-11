@@ -28,7 +28,7 @@ The content is not part of the JavaScript code, it is written in Markdown files.
 
 ### Publishing
 
-The site code and content are stored in a [repository in GitHub](https://github.com/flpm/flpm.github.io/) and hosted in GitHub Pages. The site is built and published using CI [workflow](https://github.com/flpm/flpm.github.io/blob/main/.github/workflows/deploy.yml) that triggers the main branch is pushed up.
+The site code and content are stored in a [repository in GitHub](https://github.com/flpm/flpm.github.io/) and hosted in GitHub Pages. The site is built and published using a CI [workflow](https://github.com/flpm/flpm.github.io/blob/main/.github/workflows/deploy.yml) that triggers when the main branch is pushed up.
 
 ### Updating the site
 
