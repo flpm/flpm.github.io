@@ -53,7 +53,7 @@ export default function Page({ data }) {
           <div className="float-left pt-0">
             <Image
               alt={`cover for ${data.title} by ${data.authors.join(", ")}`}
-              src={`/images/covers/${data.cover.filename}`}
+              src={`/images/covers/${data.cover_filename}`}
               width={256}
               height={256}
               className=""
@@ -87,6 +87,18 @@ export default function Page({ data }) {
               {data.date_published.slice(0, 4)}
             </span>
           </p>
+          {data.first_edition ? (
+            <p className="text-xl pt-8 font-bold">
+              <span className="">
+                First {data.first_edition_details} edition.
+              </span>
+            </p>
+          ) : null}
+          {data.signed ? (
+            <p className="text-xl font-bold">
+              <span className="">Signed by {data.signature_details}.</span>
+            </p>
+          ) : null}
         </div>
 
         <div className="markdown-content text-xl pt-12">

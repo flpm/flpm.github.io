@@ -36,9 +36,8 @@ export default function Bookshelf({ data }) {
             </div>
           </div>
           <div className="markdown-content text-xl">
-            You can find{" "}
-            <Link href="/books/by_languages">books by language</Link> and{" "}
-            <Link href="/books/by_subjects">books by subject</Link>
+            You can find <Link href="/books/languages">books by language</Link>{" "}
+            and <Link href="/books/subjects">books by subject</Link>
           </div>
         </div>
         <div>
@@ -50,10 +49,10 @@ export default function Bookshelf({ data }) {
               >
                 <Link href={`/books/info/${book.path}`}>
                   <Image
-                    alt={`cover for ${book.title} by ${book.authors.join(
+                    alt={`cover for ${book.title} by ${book.authors?.join(
                       ", "
                     )}`}
-                    src={`/images/covers/${book.cover.filename}`}
+                    src={`/images/covers/${book.cover_filename}`}
                     width={128}
                     height={128}
                     className=""

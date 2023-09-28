@@ -79,8 +79,8 @@ export default function Bookshelf({ data }) {
                             <Image
                               alt={`cover for ${
                                 book.title
-                              } by ${book.authors.join(", ")}`}
-                              src={`/images/covers/${book.cover.filename}`}
+                              } by ${book.authors?.join(", ")}`}
+                              src={`/images/covers/${book.cover_filename}`}
                               width={128}
                               height={128}
                               className=""
