@@ -52,7 +52,11 @@ export default function Page({ data }) {
         <div className="flex-grow-0 min-w-fit pt-0 pr-6">
           <div className="float-left pt-0">
             <Image
-              alt={`cover for ${data.title} by ${data.authors.join(", ")}`}
+              alt={`cover for ${data.title} by ${
+                data.authors == undefined
+                  ? "Undefined"
+                  : data.authors.join(", ")
+              }`}
               src={`/images/covers/${data.cover_filename}`}
               width={256}
               height={256}
