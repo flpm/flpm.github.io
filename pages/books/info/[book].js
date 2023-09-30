@@ -76,7 +76,7 @@ export default function Page({ data }) {
           <p className="text-2xl pt-2">by {data.authors.join(", ")}</p>
           <p className="text-xl text-gray-400">
             <span className="">
-              {data.format} in {data.language}
+              {data.format} in {data.language.join(", ")}
               {data.narrators == undefined ? null : (
                 <span className="">
                   {" "}

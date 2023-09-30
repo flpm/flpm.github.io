@@ -62,7 +62,7 @@ export default function Bookshelf({ data }) {
                 <div key={section.title} className="pb-12">
                   {section.title == null ? null : (
                     <div className="pb-6 font-semibold text-2xl">
-                      {section.title}
+                      <Link href={section.title[1]}>{section.title[0]}</Link>
                     </div>
                   )}
                   {section.description == null ? null : (
