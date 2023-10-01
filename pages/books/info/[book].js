@@ -6,6 +6,7 @@ import Link from "next/link";
 import { openSans } from "../../../components/fonts";
 import { getBookData, getAllIds } from "../../../lib/books";
 import { useRouter } from "next/router";
+import moment from "moment";
 
 export async function getStaticProps({ params }) {
   const data = await getBookData(params.book);
@@ -45,6 +46,14 @@ const relatedLinkList = (related) => {
 
 export default function Page({ data }) {
   const router = useRouter();
+  let durationString = "";
+  if (data.source === "Audible") {
+    const seconds = data.length / 1000;
+    const duration = moment.duration(seconds, "seconds");
+    durationString = duration.humanize();
+  } else {
+    durationString = data.length;
+  }
   return (
     <Layout>
       <div className="col-span-12 pt-24"></div>
@@ -77,23 +86,44 @@ export default function Page({ data }) {
           {data.subtitle == undefined ? null : (
             <div className={`text-5xl font-light pt-2`}>{data.subtitle}</div>
           )}
-          <p className="text-2xl pt-2">by {data.authors.join(", ")}</p>
+          <p className="text-2xl pt-2 pb-2">by {data.authors.join(", ")}</p>
           <p className="text-xl text-gray-400">
             <span className="">
               {data.format} in{" "}
               {data.language == undefined
                 ? "unknown language"
                 : data.language.join(", ")}
-              {data.narrators == undefined ? null : (
+              {data.length == undefined ? null : (
+                <span className="">, {durationString}</span>
+              )}
+              {/* {data.narrators == undefined ? null : (
                 <span className="">
                   {" "}
                   &#8212; narrated by {data.narrators.join(", ")}
                 </span>
               )}{" "}
               &#8212; published by {data.publisher} in{" "}
-              {data.date_published.slice(0, 4)}
+              {data.date_published.slice(0, 4)} */}
             </span>
           </p>
+          <div className="">
+            {data.narrators == undefined ? (
+              <p className="text-xl text-gray-400">
+                <span className="">
+                  Published by {data.publisher} in{" "}
+                  {data.date_published.slice(0, 4)}
+                </span>
+              </p>
+            ) : (
+              <p className="text-xl text-gray-400">
+                <span className="">
+                  Narrated by {data.narrators.join(", ")} &#8212; published by{" "}
+                  {data.publisher} in {data.date_published.slice(0, 4)}
+                </span>
+              </p>
+            )}
+          </div>
+
           {data.first_edition ? (
             <p className="text-xl pt-8 font-bold">
               <span className="">

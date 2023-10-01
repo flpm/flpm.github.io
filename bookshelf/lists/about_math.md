@@ -23,12 +23,11 @@ items:
   - '9780262013192'
   - '9781593276201'
   - '9780387848570'
-  - B00TP2UMTS
   - '9783319397559'
   - '9781491949641'
 subtitle: Books about mathematics in general, including probability and statistics
 ---
-I have 22 books about Math in my bookshelf.
+I have 21 books about Math in my bookshelf.
 
 ### Titles:
 - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski
@@ -45,11 +44,10 @@ I have 22 books about Math in my bookshelf.
 - (paper) [Machine Learning with Python Cookbook](/books/info/9781491989388) by Chris Albon
 - (paper) [Machine Learning with R Cookbook](/books/info/9781783982042) by Yu-Wei Chiu
 - (paper) [Mathematical Puzzles and Diversions](/books/info/9780140136357) by Martin Gardner
-- (paper) [O HOMEM QUE CALCULAVA (EDIÇÃO COMEMORATIVA)](/books/info/9786555873399) by Malba Tahan
+- (paper) [O Homem Que Calculava (Edição Comemorativa)](/books/info/9786555873399) by Malba Tahan
 - (paper) [Outlier Analysis](/books/info/9783319475776) by Charu C. Aggarwal
 - (paper) [Probabilistic Graphical Models](/books/info/9780262013192) by Daphne Koller, Nir Friedman
 - (paper) [Statistics Done Wrong](/books/info/9781593276201) by Alex Reinhart
 - (paper) [The Elements of Statistical Learning](/books/info/9780387848570) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
-- (audio) [Thinking Statistically (Unabridged)](/books/info/B00TP2UMTS) by Uri Bram
 - (paper) [Uncertainty](/books/info/9783319397559) by William Briggs
 - (paper) [Why](/books/info/9781491949641) by Samantha Kleinberg
