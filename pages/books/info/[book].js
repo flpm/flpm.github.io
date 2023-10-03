@@ -96,6 +96,18 @@ export default function Page({ data }) {
               {data.length == undefined ? null : (
                 <span className="">, {durationString}</span>
               )}
+              {data.theme != undefined && data.theme != "" ? (
+                <span className="">
+                  {" "}
+                  &#8212; filed in shelf{" "}
+                  <Link
+                    className="underline"
+                    href={`/books/about_${data.theme.replaceAll(" ", "_")}`}
+                  >
+                    {data.theme}
+                  </Link>
+                </span>
+              ) : null}
             </span>
           </p>
           <div className="">
