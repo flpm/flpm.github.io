@@ -96,14 +96,6 @@ export default function Page({ data }) {
               {data.length == undefined ? null : (
                 <span className="">, {durationString}</span>
               )}
-              {/* {data.narrators == undefined ? null : (
-                <span className="">
-                  {" "}
-                  &#8212; narrated by {data.narrators.join(", ")}
-                </span>
-              )}{" "}
-              &#8212; published by {data.publisher} in{" "}
-              {data.date_published.slice(0, 4)} */}
             </span>
           </p>
           <div className="">

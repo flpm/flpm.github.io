@@ -61,14 +61,28 @@ export default function Bookshelf({ data }) {
               return (
                 <div key={section.title} className="pb-12">
                   {section.title == null ? null : (
-                    <div className="pb-6 font-semibold text-2xl">
-                      <Link href={section.title[1]}>{section.title[0]}</Link>
+                    <div className="pb-6 font-semibold text-3xl">
+                      {section.title[1] == null ? (
+                        <span>{section.title[0]}</span>
+                      ) : (
+                        <Link href={section.title[1]}>{section.title[0]}</Link>
+                      )}
                     </div>
                   )}
                   {section.description == null ? null : (
-                    <div className="pb-12 text-xl">{section.description}</div>
+                    <div className="pb-6 text-xl markdown-content">
+                      <ReactMarkdown
+                        components={{
+                          a: ({ children, href }) => {
+                            return <Link href={href}>{children}</Link>;
+                          },
+                        }}
+                      >
+                        {section.description}
+                      </ReactMarkdown>
+                    </div>
                   )}
-                  <div>
+                  <div className="pb-12">
                     {section.books.map((book) => {
                       return (
                         <div

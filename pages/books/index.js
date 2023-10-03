@@ -36,8 +36,17 @@ export default function Bookshelf({ data }) {
             </div>
           </div>
           <div className="markdown-content text-xl">
-            You can find <Link href="/books/languages">books by language</Link>{" "}
-            and <Link href="/books/subjects">books by subject</Link>
+            <p>
+              You can browse through the indexes:{" "}
+              <Link href="/books/languages">by languages</Link>
+              {", "}
+              <Link href="/books/authors">by authors</Link> and{" "}
+              <Link href="/books/subjects">by subjects</Link>.
+              <br />
+              You can also check the{" "}
+              <Link href="/books/recent">most recent additions</Link> to the
+              bookshelf.
+            </p>
           </div>
         </div>
         <div>
