@@ -19,7 +19,7 @@ export async function getStaticProps() {
 }
 
 export default function Bookshelf({ data }) {
-  console.log(data);
+  // console.log(data);
   return (
     <Layout>
       <Section

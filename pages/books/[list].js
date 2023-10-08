@@ -25,7 +25,7 @@ export async function getStaticPaths() {
 }
 
 export default function Bookshelf({ data }) {
-  console.log(data);
+  // console.log(data);
   return (
     <Layout>
       <Section
@@ -69,19 +69,6 @@ export default function Bookshelf({ data }) {
                       )}
                     </div>
                   )}
-                  {section.description == null ? null : (
-                    <div className="pb-6 text-xl markdown-content">
-                      <ReactMarkdown
-                        components={{
-                          a: ({ children, href }) => {
-                            return <Link href={href}>{children}</Link>;
-                          },
-                        }}
-                      >
-                        {section.description}
-                      </ReactMarkdown>
-                    </div>
-                  )}
                   <div className="pb-12">
                     {section.books.map((book) => {
                       return (
@@ -104,6 +91,19 @@ export default function Bookshelf({ data }) {
                       );
                     })}
                   </div>
+                  {section.description == null ? null : (
+                    <div className="pb-6 text-xl markdown-content">
+                      <ReactMarkdown
+                        components={{
+                          a: ({ children, href }) => {
+                            return <Link href={href}>{children}</Link>;
+                          },
+                        }}
+                      >
+                        {section.description}
+                      </ReactMarkdown>
+                    </div>
+                  )}
                 </div>
               );
             })}
