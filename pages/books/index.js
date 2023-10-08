@@ -28,7 +28,7 @@ export default function Bookshelf({ data }) {
         spaceAfter={3}
         className="flex flex-col"
       >
-        <div className="py-[6rem] ">
+        <div className="pt-[6rem] pb-12">
           <div className={`${openSans.className} text-6xl font-semibold pb-12`}>
             Personal Bookshelf
             <div className={`${openSans.className} text-5xl pt-4 font-light`}>
@@ -43,9 +43,10 @@ export default function Bookshelf({ data }) {
               <Link href="/books/authors">by authors</Link> and{" "}
               <Link href="/books/subjects">by subjects</Link>.
               <br />
-              You can also check the{" "}
-              <Link href="/books/recent">most recent additions</Link> to the
-              bookshelf.
+              You can check the{" "}
+              <Link href="/books/recent">recent additions</Link> or browse the
+              entire bookshelf as a <Link href="/books/timeline">timeline</Link>
+              .
             </p>
           </div>
         </div>
