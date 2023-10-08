@@ -1,7 +1,7 @@
 ---
 title: 'Now'
 subtitle: 'What I am up to lately'
-date: '2023-08-19'
+date: '2023-10-07'
 related:
     - label: Books I read before
       link: /notes/finished_books
@@ -12,13 +12,13 @@ related:
 
 ### Reading and listening to
 
-- (paperback) Rescuing Socrates, by Roosevelt Montás
-- (audiobook) 36 Books That Changed the Word (The Great Courses)
+- (paperback) [Rescuing Socrates](/books/info/9780691224398/) by Roosevelt Montás
+- (paperback) [Pocket Atlas of Remote Islands](/books/info/9780143126676/) by Judith Schalansky
 
 ### Working on
 
-- The new website: working on a way to automate content publishing so I can write from my phone and have the site updated with minimal interaction.
-- Bookshelf project: working on cataloguing the books and audiobooks I own and mapping them to a timeline.
+- Bookshelf project: continuing with the work to compile a catalog of my books. Currently I am refining the schema, writing a Python CLI app to automate the process, and designing the indexes.
+- Playing around with GitHub Copilot: I have been using Copilot for writing JavaScript and Python for the Bookshelf project, it has been a very interesting and positive experience.
 
 ### Current interests
 
