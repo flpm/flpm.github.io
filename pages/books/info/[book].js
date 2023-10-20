@@ -99,7 +99,7 @@ export default function Page({ data }) {
               {data.theme != undefined && data.theme != "" ? (
                 <span className="">
                   {" "}
-                  &#8212; about{" "}
+                  &#8212; category{" "}
                   <Link
                     className="underline"
                     href={`/books/about_${data.theme.replaceAll(" ", "_")}`}
