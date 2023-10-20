@@ -406,7 +406,7 @@ items:
   - '9780786966110'
 subtitle: Books in English
 ---
-I have 400 books in English in my bookshelf.
+I have 400 books in English in my personal library.
 
 ### Titles:
 - (paper) [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James M. Higgins

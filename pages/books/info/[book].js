@@ -99,7 +99,7 @@ export default function Page({ data }) {
               {data.theme != undefined && data.theme != "" ? (
                 <span className="">
                   {" "}
-                  &#8212; filed in shelf{" "}
+                  &#8212; about{" "}
                   <Link
                     className="underline"
                     href={`/books/about_${data.theme.replaceAll(" ", "_")}`}
@@ -129,33 +129,32 @@ export default function Page({ data }) {
           </div>
 
           {data.first_edition ? (
-            <p className="text-xl pt-8 font-bold">
-              <span className="">
-                First {data.first_edition_details} edition.
-              </span>
+            <p className="text-xl font-bold">
+              <span className=""></span>
             </p>
           ) : null}
           {data.signed ? (
             <p className="text-xl font-bold">
-              <span className="">Signed by {data.signature_details}.</span>
+              {data.first_edition ? "First edition. " : null}
+              {data.signed ? "Signed copy. " : null}
             </p>
           ) : null}
         </div>
-        <div className="pt-6 font-semibold">
-          {data.status !== undefined ? (
+        {/* <div className="pt-6 font-semibold">
+          {data.read_status !== undefined ? (
             <p className="text-xl pt-6">
               <span className="">
-                I {data.status} this {data.type}
+                I {data.read_status} this {data.type}
                 {data.multiple_reads ? " multiple times" : null}
-                {data.recommend === true
+                {data.recommendation_status === true
                   ? " and I recommend it."
-                  : data.recommend === false
+                  : data.recommendation_status === false
                   ? " and I do not recommend it."
                   : "."}
               </span>
             </p>
           ) : null}
-        </div>
+        </div> */}
 
         <div className="markdown-content text-xl pt-12">
           <ReactMarkdown

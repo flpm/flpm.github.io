@@ -9,11 +9,11 @@ index:
     name: in Catalan
     title: 'Language: Catalan'
     subtitle: Books in Catalan
-    description: "I have 2 books in Catalan in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [Digue'm agosarat. Els mon\xF2legs](/books/info/9788483009512) by Andreu Buenafuente,\
-      \ Xavier Cassad\xF3, David Escard\xF3, Carles Torras\n- (paper) [Mem\xF2ries.\
-      \ Hist\xF2ria d'una convicci\xF3 (1930 - 1980) (Mem\xF2ries #1)](/books/info/9788484370451)\
-      \ by Jordi Pujol"
+    description: "I have 2 books in Catalan in my personal library.\n\n### Titles:\n\
+      - (paper) [Digue'm agosarat. Els mon\xF2legs](/books/info/9788483009512) by\
+      \ Andreu Buenafuente, Xavier Cassad\xF3, David Escard\xF3, Carles Torras\n-\
+      \ (paper) [Mem\xF2ries. Hist\xF2ria d'una convicci\xF3 (1930 - 1980) (Mem\xF2\
+      ries #1)](/books/info/9788484370451) by Jordi Pujol"
     items:
     - title: null
       books:
@@ -23,9 +23,9 @@ index:
     name: in English
     title: 'Language: English'
     subtitle: Books in English
-    description: "I have 400 books in English in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James\
-      \ M. Higgins\n- (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117)\
+    description: "I have 400 books in English in my personal library.\n\n### Titles:\n\
+      - (paper) [101 Creative Problem Solving Techniques](/books/info/9781883629007)\
+      \ by James M. Higgins\n- (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117)\
       \ by Kiyoshi Kosugi, James Davies\n- (paper) [A Gamut of Games](/books/info/9780486273471)\
       \ by Sid Sackson\n- (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689)\
       \ by Richard A. Lanham\n- (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359)\
@@ -865,8 +865,8 @@ index:
     name: in French
     title: 'Language: French'
     subtitle: Books in French
-    description: "I have 35 books in French in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [Amour & Int\xE9rim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059)\
+    description: "I have 35 books in French in my personal library.\n\n### Titles:\n\
+      - (paper) [Amour & Int\xE9rim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059)\
       \ by Trondheim\n- (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette\n\
       - (paper) [Hi\xE9roglyphes mode d'emploi](/books/info/9782711841103) by Evelyne\
       \ Faivre-Martin\n- (paper) [L'Acc\xE9l\xE9rateur Atomique (Les Formidables Aventures\
@@ -949,9 +949,9 @@ index:
     name: in Latin
     title: 'Language: Latin'
     subtitle: Books in Latin
-    description: "I have 16 books in Latin in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [38 Latin Stories](/books/info/9780865162891) by Anne H. Groton, James M.\
-      \ May, Frederic M. Wheelock\n- (paper) [A Companion to Familia Romana](/books/info/9781585108091)\
+    description: "I have 16 books in Latin in my personal library.\n\n### Titles:\n\
+      - (paper) [38 Latin Stories](/books/info/9780865162891) by Anne H. Groton, James\
+      \ M. May, Frederic M. Wheelock\n- (paper) [A Companion to Familia Romana](/books/info/9781585108091)\
       \ by Jeanne Neumann\n- (paper) [A Practical Grammar of the Latin Language](/books/info/9781333776749)\
       \ by George J. Adler\n- (paper) [Colloquia Personarum](/books/info/9781585109388)\
       \ by Hans H. Orberg\n- (paper) [Latin Alive](/books/info/9780521734189) by Joseph\
@@ -992,7 +992,7 @@ index:
     name: in Portuguese
     title: 'Language: Portuguese'
     subtitle: Books in Portuguese
-    description: "I have 17 books in Portuguese in my bookshelf.\n\n### Titles:\n\
+    description: "I have 17 books in Portuguese in my personal library.\n\n### Titles:\n\
       - (paper) [A Descoberta Da America Pelos Turcos](/books/info/9788501041616)\
       \ by Jorge Amado\n- (paper) [A Grande Arte](/books/info/9788571641143) by Rubem\
       \ Fonseca\n- (paper) [A Muralha](/books/info/9788501058331) by Dinah Silveira\
@@ -1035,10 +1035,10 @@ index:
     name: in Spanish
     title: 'Language: Spanish'
     subtitle: Books in Spanish
-    description: "I have 31 books in Spanish in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov\n- (paper)\
-      \ [El Rey Lear](/books/info/9788423972685) by William Shakespeare\n- (paper)\
-      \ [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461)\
+    description: "I have 31 books in Spanish in my personal library.\n\n### Titles:\n\
+      - (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov\n-\
+      \ (paper) [El Rey Lear](/books/info/9788423972685) by William Shakespeare\n\
+      - (paper) [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461)\
       \ by Luis Garcia Jambrina\n- (paper) [El retorno del rey (El se\xF1or de los\
       \ anillos, #3)](/books/info/9788445071779) by J. R. R. Tolkien\n- (paper) [El\
       \ \xFAltimo libro de Sergi P\xE0mies](/books/info/9788433924889) by Sergi Pamies\n\

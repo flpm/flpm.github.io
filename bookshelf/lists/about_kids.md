@@ -17,7 +17,7 @@ items:
   - B002V1BPOQ
 subtitle: Books for kids
 ---
-I have 11 books about Kids in my bookshelf.
+I have 11 books about Kids in my personal library.
 
 ### Titles:
 - (paper) [Flight of the Last Dragon](/books/info/9781101648056) by Robert Burleigh
