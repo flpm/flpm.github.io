@@ -141,6 +141,21 @@ export default function Page({ data }) {
             </p>
           ) : null}
         </div>
+        <div className="pt-6 font-semibold">
+          {data.status !== undefined ? (
+            <p className="text-xl pt-6">
+              <span className="">
+                I {data.status} this {data.type}
+                {data.multiple_reads ? " multiple times" : null}
+                {data.recommend === true
+                  ? " and I recommend it."
+                  : data.recommend === false
+                  ? " and I do not recommend it."
+                  : "."}
+              </span>
+            </p>
+          ) : null}
+        </div>
 
         <div className="markdown-content text-xl pt-12">
           <ReactMarkdown
