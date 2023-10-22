@@ -12,8 +12,8 @@ related:
 
 ### Reading and listening to
 
-- (paperback) [Rescuing Socrates](/books/info/9780691224398/) by Roosevelt Montás
 - (paperback) [Pocket Atlas of Remote Islands](/books/info/9780143126676/) by Judith Schalansky
+- (paperback) Clear and Simple as the Truth: Writing Classic Prose by Francis-Noël Thomas and Mark Turner
 - (audiobook) [The Sandman: Volume I](https://www.audible.com/pd/The-Sandman-Audiobook/B086WP794Z), audible original adaptation of the graphic novel by Neil Gaiman with a full supporting cast.
 
 ### Working on

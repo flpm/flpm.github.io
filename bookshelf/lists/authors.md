@@ -9,16 +9,13 @@ index:
     name: by A. A. Milne
     title: 'Authors: A. A. Milne'
     subtitle: Books by A. A. Milne
-    description: 'I have 1 book by A. A. Milne in my personal library.
+    description: 'I have 0 books by A. A. Milne in my personal library.
 
 
-      ### Titles:
-
-      - (audio) [Winnie-the-Pooh](/books/info/B002V1BPOQ) by A. A. Milne'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - B002V1BPOQ
+      books: []
   Aaron Philipp:
     name: by Aaron Philipp
     title: 'Authors: Aaron Philipp'
@@ -309,17 +306,13 @@ index:
     name: by Alison Jay
     title: 'Authors: Alison Jay'
     subtitle: Books by Alison Jay
-    description: 'I have 1 book by Alison Jay in my personal library.
+    description: 'I have 0 books by Alison Jay in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [PP Welcome to the Zoo! -DWF Acct ONLY](/books/info/9780803734227)
-      by Alison Jay'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780803734227'
+      books: []
   Allison Parrish:
     name: by Allison Parrish
     title: 'Authors: Allison Parrish'
@@ -1021,17 +1014,13 @@ index:
     name: by Bruce Degen
     title: 'Authors: Bruce Degen'
     subtitle: Books by Bruce Degen
-    description: 'I have 1 book by Bruce Degen in my personal library.
+    description: 'I have 0 books by Bruce Degen in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Voyage to the Volcano (Magic School Bus Science Chapter Books, #15)](/books/info/9780439429351)
-      by Judith Bauer Stamper, Joanna Cole, Bruce Degen'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780439429351'
+      books: []
   Bruce Hanington:
     name: by Bruce Hanington
     title: 'Authors: Bruce Hanington'
@@ -1226,17 +1215,13 @@ index:
     name: by Carolyn Curtis
     title: 'Authors: Carolyn Curtis'
     subtitle: Books by Carolyn Curtis
-    description: 'I have 1 book by Carolyn Curtis in my personal library.
+    description: 'I have 0 books by Carolyn Curtis in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [I Took the Moon for a Walk](/books/info/9781841488035) by Carolyn
-      Curtis'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9781841488035'
+      books: []
   Casey Reas:
     name: by Casey Reas
     title: 'Authors: Casey Reas'
@@ -1974,16 +1959,13 @@ index:
     name: by Deborah Heiligman
     title: 'Authors: Deborah Heiligman'
     subtitle: Books by Deborah Heiligman
-    description: 'I have 1 book by Deborah Heiligman in my personal library.
+    description: 'I have 0 books by Deborah Heiligman in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [The Boy Who Loved Math](/books/info/9781596433076) by Deborah Heiligman'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9781596433076'
+      books: []
   Deborah J Bennett:
     name: by Deborah J Bennett
     title: 'Authors: Deborah J Bennett'
@@ -4079,21 +4061,13 @@ index:
     name: by Joanna Cole
     title: 'Authors: Joanna Cole'
     subtitle: Books by Joanna Cole
-    description: 'I have 2 books by Joanna Cole in my personal library.
+    description: 'I have 0 books by Joanna Cole in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [The Magic School Bus on the Ocean Floor](/books/info/9781435264298)
-      by Joanna Cole
-
-      - (paper) [Voyage to the Volcano (Magic School Bus Science Chapter Books, #15)](/books/info/9780439429351)
-      by Judith Bauer Stamper, Joanna Cole, Bruce Degen'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9781435264298'
-      - '9780439429351'
+      books: []
   Joe Moran:
     name: by Joe Moran
     title: 'Authors: Joe Moran'
@@ -4459,17 +4433,13 @@ index:
     name: by Judith Bauer Stamper
     title: 'Authors: Judith Bauer Stamper'
     subtitle: Books by Judith Bauer Stamper
-    description: 'I have 1 book by Judith Bauer Stamper in my personal library.
+    description: 'I have 0 books by Judith Bauer Stamper in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Voyage to the Volcano (Magic School Bus Science Chapter Books, #15)](/books/info/9780439429351)
-      by Judith Bauer Stamper, Joanna Cole, Bruce Degen'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780439429351'
+      books: []
   Judith Schalansky:
     name: by Judith Schalansky
     title: 'Authors: Judith Schalansky'
@@ -4675,17 +4645,13 @@ index:
     name: by Kenneth Grahame
     title: 'Authors: Kenneth Grahame'
     subtitle: Books by Kenneth Grahame
-    description: 'I have 1 book by Kenneth Grahame in my personal library.
+    description: 'I have 0 books by Kenneth Grahame in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [The Wind in the Willows](/books/info/9781466887817) by Kenneth Grahame,
-      Susan Hill'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9781466887817'
+      books: []
   Kevin Flanigan:
     name: by Kevin Flanigan
     title: 'Authors: Kevin Flanigan'
@@ -5431,16 +5397,13 @@ index:
     name: by Monica Brown
     title: 'Authors: Monica Brown'
     subtitle: Books by Monica Brown
-    description: 'I have 1 book by Monica Brown in my personal library.
+    description: 'I have 0 books by Monica Brown in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Pablo Neruda](/books/info/9780805091984) by Monica Brown'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780805091984'
+      books: []
   Moss Hart:
     name: by Moss Hart
     title: 'Authors: Moss Hart'
@@ -5690,17 +5653,13 @@ index:
     name: by Patricia Maclachlan
     title: 'Authors: Patricia Maclachlan'
     subtitle: Books by Patricia Maclachlan
-    description: 'I have 1 book by Patricia Maclachlan in my personal library.
+    description: 'I have 0 books by Patricia Maclachlan in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [The Iridescence of Birds](/books/info/9781596439481) by Patricia
-      MacLachlan'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9781596439481'
+      books: []
   Paul Arden:
     name: by Paul Arden
     title: 'Authors: Paul Arden'
@@ -6181,16 +6140,13 @@ index:
     name: by Robert Burleigh
     title: 'Authors: Robert Burleigh'
     subtitle: Books by Robert Burleigh
-    description: 'I have 1 book by Robert Burleigh in my personal library.
+    description: 'I have 0 books by Robert Burleigh in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Flight of the Last Dragon](/books/info/9781101648056) by Robert Burleigh'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9781101648056'
+      books: []
   Robert Garland:
     name: by Robert Garland
     title: 'Authors: Robert Garland'
@@ -6946,17 +6902,13 @@ index:
     name: by Susan Hill
     title: 'Authors: Susan Hill'
     subtitle: Books by Susan Hill
-    description: 'I have 1 book by Susan Hill in my personal library.
+    description: 'I have 0 books by Susan Hill in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [The Wind in the Willows](/books/info/9781466887817) by Kenneth Grahame,
-      Susan Hill'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9781466887817'
+      books: []
   Sylvan Barnet:
     name: by Sylvan Barnet
     title: 'Authors: Sylvan Barnet'
@@ -7264,16 +7216,13 @@ index:
     name: by Tricia Tusa
     title: 'Authors: Tricia Tusa'
     subtitle: Books by Tricia Tusa
-    description: 'I have 1 book by Tricia Tusa in my personal library.
+    description: 'I have 0 books by Tricia Tusa in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Is That You, Eleanor Sue?](/books/info/9781250235725) by Tricia Tusa'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9781250235725'
+      books: []
   Tristram Smith:
     name: by Tristram Smith
     title: 'Authors: Tristram Smith'
@@ -7822,8 +7771,7 @@ index:
       - '9781941628232'
 ---
 
-### A. A. Milne (1)
-- (audio) [Winnie-the-Pooh](/books/info/B002V1BPOQ) by A. A. Milne
+### A. A. Milne (0)
 ### Aaron Philipp (1)
 - (paper) [Hacking Exposed Computer Forensics](/books/info/9780072256758) by Chris Davis, David Cowen, Aaron Philipp
 ### Abbott Joseph Liebling (1)
@@ -7868,8 +7816,7 @@ index:
 - (paper) [Business Model Generation](/books/info/9780470876411) by Alexander Osterwalder, Yves Pigneur
 ### Alexandre Dumas (1)
 - (paper) [Les Trois Mousquetaires](/books/info/9782070417681) by Alexandre Dumas
-### Alison Jay (1)
-- (paper) [PP Welcome to the Zoo! -DWF Acct ONLY](/books/info/9780803734227) by Alison Jay
+### Alison Jay (0)
 ### Allison Parrish (1)
 - (paper) [Getting Started with Processing.py](/books/info/9781457186837) by Allison Parrish, Ben Fry, Casey Reas
 ### Amanda Gorman (2)
@@ -7973,8 +7920,7 @@ index:
 - (paper) [Python Testing with Pytest](/books/info/9781680508604) by Brian Okken
 ### Brooks Landon (1)
 - (paper) [Building Great Sentences](/books/info/9780452298606) by Brooks Landon
-### Bruce Degen (1)
-- (paper) [Voyage to the Volcano (Magic School Bus Science Chapter Books, #15)](/books/info/9780439429351) by Judith Bauer Stamper, Joanna Cole, Bruce Degen
+### Bruce Degen (0)
 ### Bruce Hanington (1)
 - (paper) [Universal Methods of Design Expanded and Revised](/books/info/9781631597480) by Bruce Hanington, Bella Martin
 ### Bruce Patton (1)
@@ -8002,8 +7948,7 @@ index:
 - (paper) [La sombra del viento](/books/info/9788408093107) by Carlos Ruiz Zafon
 ### Carol S. Dweck (1)
 - (paper) [Mindset](/books/info/9780345472328) by Carol S. Dweck
-### Carolyn Curtis (1)
-- (paper) [I Took the Moon for a Walk](/books/info/9781841488035) by Carolyn Curtis
+### Carolyn Curtis (0)
 ### Casey Reas (3)
 - (paper) [Getting Started with P5.Js](/books/info/9781457186776) by Lauren McCarthy, Ben Fry, Casey Reas
 - (paper) [Getting Started with Processing.py](/books/info/9781457186837) by Allison Parrish, Ben Fry, Casey Reas
@@ -8107,8 +8052,7 @@ index:
 ### Debbie Millman (2)
 - (paper) [How to Think Like a Great Graphic Designer](/books/info/9781581154962) by Debbie Millman
 - (paper) [Why Design Matters](/books/info/9780062872968) by Debbie Millman
-### Deborah Heiligman (1)
-- (paper) [The Boy Who Loved Math](/books/info/9781596433076) by Deborah Heiligman
+### Deborah Heiligman (0)
 ### Deborah J Bennett (1)
 - (paper) [Logic Made Easy](/books/info/9780393326925) by Deborah J Bennett
 ### Denby (1)
@@ -8426,9 +8370,7 @@ index:
 - (paper) [Le Journal de mon Père](/books/info/9782203396098) by Jirō Taniguchi
 ### Joan R. Mertens (1)
 - (paper) [Roman Art](/books/info/9781785511837) by Paul Zanker, Seán Hemingway, Christopher S. Lightfoot, Joan R. Mertens
-### Joanna Cole (2)
-- (paper) [The Magic School Bus on the Ocean Floor](/books/info/9781435264298) by Joanna Cole
-- (paper) [Voyage to the Volcano (Magic School Bus Science Chapter Books, #15)](/books/info/9780439429351) by Judith Bauer Stamper, Joanna Cole, Bruce Degen
+### Joanna Cole (0)
 ### Joe Moran (3)
 - (paper) [First You Write a Sentence](/books/info/9780143134343) by Joe Moran
 - (audio) [First You Write a Sentence](/books/info/059315018X) by Joe Moran
@@ -8487,8 +8429,7 @@ index:
 - (paper) [Âme rouge (Blacksad, #3)](/books/info/9782205055641) by Juan Díaz Canales, Juanjo Guarnido
 ### Juanjo Guarnido (1)
 - (paper) [Âme rouge (Blacksad, #3)](/books/info/9782205055641) by Juan Díaz Canales, Juanjo Guarnido
-### Judith Bauer Stamper (1)
-- (paper) [Voyage to the Volcano (Magic School Bus Science Chapter Books, #15)](/books/info/9780439429351) by Judith Bauer Stamper, Joanna Cole, Bruce Degen
+### Judith Bauer Stamper (0)
 ### Judith Schalansky (1)
 - (paper) [Pocket Atlas of Remote Islands](/books/info/9780143126676) by Judith Schalansky
 ### Jules Verne (1)
@@ -8517,8 +8458,7 @@ index:
 - (paper) [Out of Our Minds](/books/info/9781841121253) by Ken Robinson
 ### Ken Visocky O'Grady (1)
 - (paper) [The Information Design Handbook](/books/info/9781600610486) by Jenn Visocky O'Grady, Ken Visocky O'Grady
-### Kenneth Grahame (1)
-- (paper) [The Wind in the Willows](/books/info/9781466887817) by Kenneth Grahame, Susan Hill
+### Kenneth Grahame (0)
 ### Kevin Flanigan (1)
 - (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by Kevin Flanigan
 ### Kevin Hemenway (1)
@@ -8632,8 +8572,7 @@ index:
 - (paper) [Cyberpunk RED](/books/info/9781950911066) by Mike Pondsmith, James Hutt, Cody Podsmith, Jay Parker, J. Gray, David Ackerman, Jaye Kovach
 ### Milbourne Christopher (1)
 - (paper) [The Illustrated History of Magic](/books/info/9780690431650) by Milbourne Christopher
-### Monica Brown (1)
-- (paper) [Pablo Neruda](/books/info/9780805091984) by Monica Brown
+### Monica Brown (0)
 ### Moss Hart (1)
 - (paper) [Three Plays](/books/info/9780802150646) by George S. Kaufman, Moss Hart
 ### Mr James Davies (1)
@@ -8668,8 +8607,7 @@ index:
 - (paper) [La Voleuse du Père-Fauteuil, Tome 2](/books/info/9782205053326) by Omond, Yoann Chivard ; dit Yoann
 ### Pan (1)
 - (paper) [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522) by Pan
-### Patricia MacLachlan (1)
-- (paper) [The Iridescence of Birds](/books/info/9781596439481) by Patricia MacLachlan
+### Patricia MacLachlan (0)
 ### Paul Arden (1)
 - (paper) [It's Not How Good You Are, It's How Good You Want To Be](/books/info/9780714843377) by Paul Arden
 ### Paul Auster (1)
@@ -8739,8 +8677,7 @@ index:
 ### Robert Bringhurst (2)
 - (paper) [A Short History of the Printed Word](/books/info/9780881791549) by Warren Chappell, Robert Bringhurst
 - (paper) [The Elements of Typographic Style](/books/info/9780881792065) by Robert Bringhurst
-### Robert Burleigh (1)
-- (paper) [Flight of the Last Dragon](/books/info/9781101648056) by Robert Burleigh
+### Robert Burleigh (0)
 ### Robert Garland (2)
 - (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland
 - (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland
@@ -8852,8 +8789,7 @@ index:
 - (paper) [It's Not All in Your Head](/books/info/9781606238134) by Gordon J. G. Asmundson, Steven Taylor
 ### Stoyan Stefanov (1)
 - (paper) [JavaScript Patterns](/books/info/9781449396947) by Stoyan Stefanov
-### Susan Hill (1)
-- (paper) [The Wind in the Willows](/books/info/9781466887817) by Kenneth Grahame, Susan Hill
+### Susan Hill (0)
 ### Sylvan Barnet (1)
 - (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338) by Sylvan Barnet, Reid Gilbert
 ### Sérgio Buarque de Holanda (1)
@@ -8901,8 +8837,7 @@ index:
 ### Trevor Hastie (2)
 - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370) by Gareth James, Trevor Hastie, Robert Tibshirani
 - (paper) [The Elements of Statistical Learning](/books/info/9780387848570) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
-### Tricia Tusa (1)
-- (paper) [Is That You, Eleanor Sue?](/books/info/9781250235725) by Tricia Tusa
+### Tricia Tusa (0)
 ### Tristram Smith (1)
 - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith, Lawrence Scahill
 ### Trondheim (1)
