@@ -6,6 +6,7 @@ subtitle: A Hercule Poirot Mystery
 asin: B008ELXJD2
 length: '0'
 owned: 'true'
+type: audiobook
 format: Audiobook
 listening:
   duration: 109782.0
@@ -13,6 +14,10 @@ listening:
   last_time: '2017-01-18'
 link: https://www.audible.com/pd/B008ELXJD2
 source: Audible
+purchase_date: '2015-08-13'
+listening_date: '2015-08-10'
+read_status: listened to
+theme: crime fiction
 topics:
 - Historical Fiction
 - Crime Fiction
@@ -28,15 +33,8 @@ language:
 rating:
   rating: 4.643914631801577
   count: 5201
-cover_filename: B008ELXJD2.jpg
-purchase_date: '2015-08-13'
-listening_date: '2015-08-10'
-theme: crime fiction
 duration: PT7H59M
-type: audiobook
-status: listened to
-read_status: listened to
-recommendation_status: null
+cover_filename: B008ELXJD2.jpg
 ---
 Soon to be a major motion picture sequel to Murder on the Orient Express with a screenplay by Michael Green, directed by and starring Kenneth Branagh alongside Gal Gadot and Armie Hammer - coming September 17, 2021!
 Beloved detective Hercule Poirot embarks on a journey to Egypt in one of Agatha Christie’s most famous mysteries.
@@ -45,3 +43,4 @@ Hercule Poirot recalled an earlier outburst by a fellow passenger: “I’d like
 A sweeping mystery of love, jealousy, and betrayal, Death on the Nile is one of Christie’s most legendary and timeless works.
 “Death on the Nile is perfect.” (The Guardian)
 “One of her best.... First rate entertainment.” (Kirkus Reviews)
+
