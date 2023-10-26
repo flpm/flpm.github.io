@@ -17,8 +17,8 @@ source: Audible
 purchase_date: '2023-06-04'
 listening_date: '2023-06-04'
 multiple_reads: true
-read_status: listened to
-recommendation_status: true
+read_status: null
+recommendation_status: null
 theme: presentation
 topics:
 - Career Success

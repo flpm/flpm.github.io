@@ -14,7 +14,7 @@ listening:
 link: https://www.audible.com/pd/B06WLMWF2S
 source: Audible
 listening_date: '2022-01-24'
-read_status: have not started
+read_status: null
 theme: crime fiction
 topics:
 - Traditional Detectives
@@ -33,6 +33,7 @@ rating:
   count: 19724
 duration: PT62H52M
 cover_filename: B06WLMWF2S.jpg
+recommendation_status: null
 ---
 "Fry's Holmes is crisp and high-handed, his Watson enthusiastic and bemused, and the rest of the narration colorful without being mannered. Have fun. Winner of AudioFile Earphones Award." (AudioFile magazine)
 "...it was reading the Sherlock Holmes stories as a boy that first turned me on to the power of writing and storytelling." (Stephen Fry)

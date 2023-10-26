@@ -14,7 +14,7 @@ listening:
 link: https://www.audible.com/pd/B00DB92ATG
 source: Audible
 listening_date: '2022-08-31'
-read_status: listened to
+read_status: null
 theme: ancient history
 topics:
 - Military
@@ -31,6 +31,7 @@ rating:
   count: 547
 duration: PT12H13M
 cover_filename: B00DB92ATG.jpg
+recommendation_status: null
 ---
 Forget Hollywood's portrayal of violence and mayhem in ancient warfare and find out what the ancient battles were really like. What were the weapons, tactics, armor, training, and logistics? What were the crucial factors that could turn the tide of battle, giving one side victory and the other defeat?
 In 24 exciting lectures, Professor Fagan introduces you to the many fateful battles that became crucibles of history: the fearsome clash between the Athenians and the invading Persian army at the Marathon, Alexander the Great's crushing hammer-and-anvil tactics against the Persians at Gaugemela, and the Roman mastery of siege warfare at the Jewish fortress of Masada.

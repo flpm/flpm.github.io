@@ -16,8 +16,8 @@ link: https://www.audible.com/pd/B06XWYMP73
 source: Audible
 purchase_date: '2021-11-22'
 listening_date: '2022-01-20'
-read_status: listened to
-recommendation_status: true
+read_status: null
+recommendation_status: null
 theme: humor
 topics:
 - Entertainment & Celebrities

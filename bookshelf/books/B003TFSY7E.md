@@ -16,7 +16,7 @@ link: https://www.audible.com/pd/B003TFSY7E
 source: Audible
 purchase_date: '2010-11-23'
 listening_date: '2019-12-11'
-read_status: partially listened to
+read_status: null
 theme: economics
 topics:
 - Theory
@@ -33,6 +33,7 @@ rating:
   count: 719
 duration: PT13H44M
 cover_filename: B003TFSY7E.jpg
+recommendation_status: null
 ---
 In Naked Economics, journalist Charles Wheelan does “the impossible”—he makes economic principles relevant, interesting and fun. Brimming with scores of down-to-earth examples and sprinkled with humorous anecdotes, this comprehensive overview will keep listeners smiling and wide awake.
 

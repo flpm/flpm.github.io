@@ -15,8 +15,8 @@ link: https://www.audible.com/pd/B00DG7NVXC
 source: Audible
 purchase_date: '2022-01-29'
 listening_date: '2022-01-29'
-read_status: listened to
-recommendation_status: true
+read_status: null
+recommendation_status: null
 theme: archaeology
 topics:
 - Collections
