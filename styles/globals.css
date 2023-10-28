@@ -21,3 +21,9 @@
 .markdown-content h3 {
     @apply text-2xl font-semibold pb-4 pt-4;
 }
+
+
+
+.markdown-content-part p {
+    @apply last:pb-0;
+}
