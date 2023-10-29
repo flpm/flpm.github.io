@@ -18,7 +18,8 @@ link: https://www.audible.com/pd/B00NJ58OWE
 source: Audible
 purchase_date: '2016-02-23'
 listening_date: '2016-03-06'
-read_status: null
+read_status:
+  start: true
 theme: psychology
 topics:
 - Child Psychology

@@ -16,7 +16,11 @@ link: https://www.audible.com/pd/B06XWYMP73
 source: Audible
 purchase_date: '2021-11-22'
 listening_date: '2022-01-20'
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
+  recommend: true
 recommendation_status: null
 theme: humor
 topics:

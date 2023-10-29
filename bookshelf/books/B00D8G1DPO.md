@@ -15,7 +15,10 @@ link: https://www.audible.com/pd/B00D8G1DPO
 source: Audible
 purchase_date: '2021-11-25'
 listening_date: '2021-12-01'
-read_status: null
+read_status:
+  start: true
+  finish: true
+  dislike: true
 theme: ancient history
 topics:
 - Ancient

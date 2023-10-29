@@ -7,6 +7,8 @@ import { openSans, iADuoItalic } from "../../../components/fonts";
 import { getBookData, getAllIds } from "../../../lib/books";
 import { useRouter } from "next/router";
 import moment from "moment";
+import { read } from "gray-matter";
+import { de } from "date-fns/locale";
 
 export async function getStaticProps({ params }) {
   const data = await getBookData(params.book);
@@ -23,6 +25,39 @@ export async function getStaticPaths() {
     paths,
     fallback: false,
   };
+}
+
+function makeDescription(read_status, book_type = "book") {
+  let description = "";
+  if (read_status == null) return "I have not written about this book yet.";
+  const start = read_status.start != null;
+  const finish = read_status.finish != null;
+  const like = read_status.like != null;
+  const dislike = read_status.dislike != null;
+  const recommend = read_status.recommend != null;
+  const multiple = read_status.multiple != null;
+  const plan = read_status.plan != null;
+  if (start && finish && like && recommend) {
+    if (multiple)
+      description = "I read this book many times and I strongly recommend it.";
+    else description = "I really enjoyed reading this book and I recommend it.";
+  } else if (start && like) {
+    if (finish) description = "I enjoyed reading this book.";
+    else description = "I enjoyed reading this book, but I did not finish it.";
+  } else if (start && dislike) {
+    description =
+      "I did not enjoy reading this book and I do not recommend it.";
+  } else if (start && !finish) {
+    if (plan)
+      description =
+        "I did not finish reading this book, but I plan to come back to is some day.";
+    else if (dislike)
+      description =
+        "I did not finish reading this book, and I do not plan to come back to it.";
+    else description = "I did not finish reading this book.";
+  }
+  if (description == "") description = "I have not read this book yet.";
+  return description;
 }
 
 const relatedLinkList = (related) => {
@@ -48,7 +83,7 @@ export default function Page({ data }) {
   const router = useRouter();
   let durationString = "";
   const parts = data.content.split("---");
-  const description = parts[0];
+  const description = parts[0].replaceAll("\n", "\n\n");
   let note = null;
   if (parts.length > 1) {
     note = parts[1];
@@ -160,12 +195,11 @@ export default function Page({ data }) {
                   {note}
                 </ReactMarkdown>
               ) : (
-                <p>I have not written about this book yet.</p>
+                <p>{makeDescription(data.read_status, data.book_type)}</p>
               )}
             </div>
           </div>
 
-          {/* <p className="pt-12 font-semibold">From the publishers: </p> */}
           <div className="pt-12">
             <div
               className={`markdown-content-part pl-[15px] pr-6 py-4 border-l-8 border-l-gray-300 bg-gray-100`}

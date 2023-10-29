@@ -16,7 +16,10 @@ link: https://www.audible.com/pd/B01D3AC5BA
 source: Audible
 purchase_date: '2021-09-29'
 listening_date: '2021-09-29'
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: psychology
 topics:
 - Education

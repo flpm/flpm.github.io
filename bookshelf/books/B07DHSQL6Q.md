@@ -16,7 +16,10 @@ link: https://www.audible.com/pd/B07DHSQL6Q
 source: Audible
 purchase_date: '2021-08-09'
 listening_date: '2021-08-09'
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: business
 topics:
 - Career Success

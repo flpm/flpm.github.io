@@ -16,7 +16,10 @@ link: https://www.audible.com/pd/B008ELXJD2
 source: Audible
 purchase_date: '2015-08-13'
 listening_date: '2015-08-10'
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: crime fiction
 topics:
 - Historical Fiction

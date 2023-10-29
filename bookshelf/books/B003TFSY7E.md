@@ -16,7 +16,9 @@ link: https://www.audible.com/pd/B003TFSY7E
 source: Audible
 purchase_date: '2010-11-23'
 listening_date: '2019-12-11'
-read_status: null
+read_status:
+  start: true
+  like: true
 theme: economics
 topics:
 - Theory

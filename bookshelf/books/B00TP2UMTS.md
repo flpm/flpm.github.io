@@ -15,7 +15,8 @@ link: https://www.audible.com/pd/B00TP2UMTS
 source: Audible
 purchase_date: '2016-02-25'
 listening_date: '2016-02-25'
-read_status: null
+read_status:
+  plan: true
 theme: math
 topics:
 - Economics

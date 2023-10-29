@@ -16,7 +16,12 @@ link: https://www.audible.com/pd/B08ZYXLTYG
 source: Audible
 purchase_date: '2021-10-27'
 listening_date: '2021-10-27'
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
+  plan: true
+  recommend: true
 recommendation_status: null
 theme: music
 topics:
