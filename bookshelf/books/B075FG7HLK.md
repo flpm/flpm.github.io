@@ -17,7 +17,13 @@ source: Audible
 purchase_date: '2023-06-04'
 listening_date: '2023-06-04'
 multiple_reads: true
-read_status: null
+read_status:
+  start: true
+  finish: true
+  multiple: true
+  like: true
+  plan: true
+  recommend: true
 recommendation_status: null
 theme: presentation
 topics:

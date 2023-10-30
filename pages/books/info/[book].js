@@ -42,15 +42,14 @@ function makeDescription(read_status, book_type = "book") {
       description = "I read this book many times and I strongly recommend it.";
     else description = "I really enjoyed reading this book and I recommend it.";
   } else if (start && like) {
-    if (finish) description = "I enjoyed reading this book.";
-    else description = "I enjoyed reading this book, but I did not finish it.";
+    description = "I enjoyed reading this book.";
   } else if (start && dislike) {
     description =
       "I did not enjoy reading this book and I do not recommend it.";
   } else if (start && !finish) {
     if (plan)
       description =
-        "I did not finish reading this book, but I plan to come back to is some day.";
+        "I did not finish reading this book, but I plan to come back to it some day.";
     else if (dislike)
       description =
         "I did not finish reading this book, and I do not plan to come back to it.";

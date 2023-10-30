@@ -14,7 +14,11 @@ listening:
 link: https://www.audible.com/pd/B00DDXQ61S
 source: Audible
 listening_date: '2022-04-15'
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
+  recommend: true
 theme: mythology
 topics:
 - Collections

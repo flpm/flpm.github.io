@@ -16,7 +16,9 @@ listening:
 link: https://www.audible.com/pd/B00XP3CMHI
 source: Audible
 listening_date: '2022-04-15'
-read_status: null
+read_status:
+  start: true
+  finish: true
 theme: ancient history
 topics:
 - Ancient

@@ -15,7 +15,8 @@ listening:
 link: https://www.audible.com/pd/B002V8KXYC
 source: Audible
 listening_date: '2021-12-13'
-read_status: null
+read_status:
+  plan: true
 theme: ancient history
 topics:
 - Rome

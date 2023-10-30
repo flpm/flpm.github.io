@@ -14,7 +14,10 @@ listening:
 link: https://www.audible.com/pd/B0774ZRRJL
 source: Audible
 listening_date: '2023-05-13'
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: writing
 topics:
 - Words, Language & Grammar

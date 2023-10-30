@@ -14,7 +14,10 @@ listening:
 link: https://www.audible.com/pd/B00DB92ATG
 source: Audible
 listening_date: '2022-08-31'
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: ancient history
 topics:
 - Military

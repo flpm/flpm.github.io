@@ -14,7 +14,10 @@ listening:
 link: https://www.audible.com/pd/B06WLMWF2S
 source: Audible
 listening_date: '2022-01-24'
-read_status: null
+read_status:
+  start: true
+  like: true
+  plan: true
 theme: crime fiction
 topics:
 - Traditional Detectives

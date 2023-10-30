@@ -15,7 +15,10 @@ listening:
 link: https://www.audible.com/pd/B06VSQVPCY
 source: Audible
 listening_date: '2023-05-16'
-read_status: null
+read_status:
+  start: true
+  like: true
+  plan: true
 topics:
 - Cultural & Regional
 - Psychology

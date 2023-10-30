@@ -17,7 +17,8 @@ link: https://www.audible.com/pd/B0BX7CJVCS
 source: Audible
 purchase_date: '2023-04-17'
 listening_date: '2023-04-17'
-read_status: null
+read_status:
+  start: true
 theme: writing
 topics:
 - Marketing
