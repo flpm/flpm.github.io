@@ -30,9 +30,9 @@ export default function Bookshelf({ data }) {
       >
         <div className="pt-[6rem] pb-12">
           <div className={`${openSans.className} text-6xl font-semibold pb-12`}>
-            Personal Bookshelf
+            My Personal Library
             <div className={`${openSans.className} text-5xl pt-4 font-light`}>
-              A catalogue of my books and audiobooks
+              A catalogue of the books and audiobooks I own
             </div>
           </div>
           <div className="markdown-content text-xl">
