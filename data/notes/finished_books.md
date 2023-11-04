@@ -1,7 +1,7 @@
 ---
 title: 'notes / books / finished'
 subtitle: 'the list of books and audiobooks I have finished'
-date: '2023-08-23'
+date: '2023-11-03'
 related:
     - label: 'Books I want to read'
       link: '/notes/books_to_read'
@@ -10,6 +10,13 @@ related:
 
 ### 2023
 
+- Talk to Me, by Dean Nelson (audiobook)
+- The Sandman: Part I (audiobook)
+- Still Writing, by Dani Shapiro (audiobook)
+- Clear and Simple As the Truth by Francis-Noël Thomas, Mark Turner (paperback)
+- Pocket Atlas of Remote Islands by Judith Schalansky (paperback)
+- Recuing Socrates, by Roosevelt Montas (paperback)
+- Sense of Style, by Steven Pinker (audiobook)
 - SPQR, by Mary Beard (audiobook)
 - Writing and Civilization: from ancient words to modernity (The Great Courses), by Marc Zender
 - Writing Tools, by Roy Peter Clark (audiobook)
