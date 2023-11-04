@@ -6,7 +6,7 @@ asin: B06WLMWF2S
 length: '226362000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 11158.0
   first_time: '2022-01-24'
@@ -34,7 +34,7 @@ language:
 rating:
   rating: 4.842273372541067
   count: 19724
-duration: PT62H52M
+duration: 230040000
 cover_filename: B06WLMWF2S.jpg
 recommendation_status: null
 author: Arthur Conan Doyle

@@ -7,7 +7,7 @@ asin: B08ZYXLTYG
 length: '5575000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Performance
 listening:
   duration: 5428.0
   first_time: '2021-10-27'
@@ -37,7 +37,7 @@ language:
 rating:
   rating: 4.747325854422123
   count: 7666
-duration: PT1H32M
+duration: 5580000
 cover_filename: B08ZYXLTYG.jpg
 do_not_update:
 - cover_filename

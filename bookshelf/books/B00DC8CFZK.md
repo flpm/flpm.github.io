@@ -7,7 +7,7 @@ asin: B00DC8CFZK
 length: '44220000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Lecture
 listening:
   duration: 940.0
   first_time: '2023-05-15'
@@ -34,7 +34,7 @@ language:
 rating:
   rating: 4.732538330494037
   count: 587
-duration: PT12H17M
+duration: 44940000
 cover_filename: B00DC8CFZK.jpg
 recommendation_status: null
 author: Elizabeth Vandiver
