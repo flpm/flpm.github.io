@@ -42,11 +42,20 @@ export default function Bookshelf({ data }) {
               {", "}
               <Link href="/books/authors">by authors</Link> and{" "}
               <Link href="/books/subjects">by subjects</Link>.
-              <br />
+            </p>
+            <p>
               You can check the{" "}
-              <Link href="/books/recent">recent additions</Link> or browse the
-              entire bookshelf as a <Link href="/books/timeline">timeline</Link>
+              <Link href="/books/recent">recent additions</Link>, the list of{" "}
+              <Link href="/books/signed">signed books</Link>, or the list of{" "}
+              <Link href="/books/multiple_formats">
+                books I own in multiple formats
+              </Link>
               .
+            </p>
+            <p>
+              {" "}
+              Or you can simple browse the entire library as a{" "}
+              <Link href="/books/timeline">timeline</Link>.
             </p>
           </div>
         </div>
