@@ -2227,15 +2227,17 @@ items:
   filename: null
   group: Ancient History
   title:
-  - Ancient History (45)
+  - Ancient History (46)
   - /books/about_ancient_history/
   subtitle: Books from the beginning of recorded human history to the Early Middle
     Ages
   sublist_description: null
   books: []
-  description: "- (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard\n\
-    - (paper) [Une journ\xE9e dans la Rome antique](/books/info/9782228930376) by\
-    \ Alberto Angela\n- (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698)\
+  description: "- (paper) [Emperor of Rome](/books/info/9780871404220) by Mary Beard\n\
+    - (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard\n- (paper)\
+    \ [El Cercano Oriente (Historia Universal Asimov, #1)](/books/info/9788420637457)\
+    \ by Isaac Asimov\n- (paper) [Une journ\xE9e dans la Rome antique](/books/info/9782228930376)\
+    \ by Alberto Angela\n- (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698)\
     \ by Clare Rowan\n- (paper) [Chronology of the Ancient World, 10,000 B.C. to A.D.\
     \ 799](/books/info/9780133264227) by H. E. L. Mellersh\n- (audio) [The Greek and\
     \ Persian Wars](/books/info/B00DC5SB06) by John R. Hale\n- (paper) [Cannae](/books/info/9781541699250)\
@@ -2254,17 +2256,16 @@ items:
     \ of Rome](/books/info/B078HDSHQJ) by Gregory S. Aldrete\n- (paper) [Daily Life\
     \ in the Roman City](/books/info/9780806140278) by Gregory S. Aldrete\n- (audio)\
     \ [The Roman Empire](/books/info/B07MDHVBLY) by Gregory S. Aldrete\n- (paper)\
-    \ [El Cercano Oriente (Historia Universal Asimov, #1)](/books/info/9788420637457)\
-    \ by Isaac Asimov\n- (paper) [La Rep\xFAblica Romana](/books/info/9788420635347)\
-    \ by Isaac Asimov\n- (paper) [El Imperio Romano](/books/info/9788420635484) by\
-    \ Isaac Asimov\n- (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov\n\
-    - (paper) [L'Histoire commence \xE0 Sumer](/books/info/9782080812988) by Samuel\
-    \ Noah Kramer\n- (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov\n\
-    - (audio) [Emperors of Rome](/books/info/B00D8HXDPQ) by Garrett G. Fagan\n- (audio)\
-    \ [Pax Romana](/books/info/B01KMXAL9Y) by Adrian Goldsworthy\n- (audio) [Julius\
-    \ Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller\n- (audio) [Herodotus](/books/info/B00DC8CFZK)\
-    \ by Elizabeth Vandiver\n- (audio) [Ancient Greek Civilization](/books/info/B00D6OQFZG)\
-    \ by Jeremy McInerney\n- (audio) [Living History](/books/info/B00XP3CMHI) by Robert\
+    \ [La Rep\xFAblica Romana](/books/info/9788420635347) by Isaac Asimov\n- (paper)\
+    \ [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov\n- (paper) [Los\
+    \ griegos](/books/info/9788420637440) by Isaac Asimov\n- (paper) [L'Histoire commence\
+    \ \xE0 Sumer](/books/info/9782080812988) by Samuel Noah Kramer\n- (paper) [Los\
+    \ Egipcios](/books/info/9788420635507) by Isaac Asimov\n- (audio) [Emperors of\
+    \ Rome](/books/info/B00D8HXDPQ) by Garrett G. Fagan\n- (audio) [Pax Romana](/books/info/B01KMXAL9Y)\
+    \ by Adrian Goldsworthy\n- (audio) [Julius Caesar](/books/info/B002V8KXYC) by\
+    \ J. F. C. Fuller\n- (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth\
+    \ Vandiver\n- (audio) [Ancient Greek Civilization](/books/info/B00D6OQFZG) by\
+    \ Jeremy McInerney\n- (audio) [Living History](/books/info/B00XP3CMHI) by Robert\
     \ Garland\n- (audio) [Great Mythologies of the World](/books/info/B013KRSIVC)\
     \ by Grant L. Voth, Julius H. Bailey, Kathryn McClymond, Robert Andr&eacute; LaFleur\n\
     - (audio) [Cities of the Ancient World](/books/info/B00LG7MR20) by Steven L. Tuck\n\
@@ -2482,10 +2483,10 @@ items:
   subtitle: Books about design, including methods, approaches and techniques
   sublist_description: null
   books: []
-  description: "- (paper) [The Moderns](/books/info/9781419724015) by Steven Heller,\
-    \ Greg D'Onofrio\n- (paper) [LOGO Modernism](/books/info/9783836545303) by Jens\
-    \ M\xFCller\n- (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521)\
-    \ by Javier S\xE1ez Cast\xE1n\n- (paper) [Layout Essentials Revised and Updated](/books/info/9781631596315)\
+  description: "- (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521)\
+    \ by Javier S\xE1ez Cast\xE1n\n- (paper) [The Moderns](/books/info/9781419724015)\
+    \ by Steven Heller, Greg D'Onofrio\n- (paper) [LOGO Modernism](/books/info/9783836545303)\
+    \ by Jens M\xFCller\n- (paper) [Layout Essentials Revised and Updated](/books/info/9781631596315)\
     \ by Beth Tondreau\n- (paper) [Universal Methods of Design Expanded and Revised](/books/info/9781631597480)\
     \ by Bruce Hanington, Bella Martin\n- (paper) [Interviewing Users](/books/info/9781933820118)\
     \ by Steve Portigal\n- (paper) [Designing Your Life](/books/info/9781784740245)\
@@ -2585,13 +2586,15 @@ items:
   filename: null
   group: Essays
   title:
-  - Essays (6)
+  - Essays (7)
   - /books/about_essays/
   subtitle: Books about essays, including collections of essays
   sublist_description: null
   books: []
-  description: '- (paper) [The Moth Presents All These Wonders](/books/info/9781101904404)
-    by Catherine Burns
+  description: '- (audio) [Figuring](/books/info/198484475X) by Maria Popova
+
+    - (paper) [The Moth Presents All These Wonders](/books/info/9781101904404) by
+    Catherine Burns
 
     - (paper) [Pocket Atlas of Remote Islands](/books/info/9780143126676) by Judith
     Schalansky
@@ -2729,10 +2732,10 @@ items:
   sublist_description: null
   books: []
   description: "- (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk\
-    \ Maggs\n- (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk\
-    \ Maggs\n- (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk\
     \ Maggs\n- (paper) [Locke & Key Master Edition Volume 1](/books/info/9781631402241)\
-    \ by Joe Hill\n- (paper) [Hilda and the Midnight Giant](/books/info/9781909263796)\
+    \ by Joe Hill\n- (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman,\
+    \ Dirk Maggs\n- (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman,\
+    \ Dirk Maggs\n- (paper) [Hilda and the Midnight Giant](/books/info/9781909263796)\
     \ by Luke Pearson\n- (paper) [Hilda and the Bird Parade](/books/info/9781911171027)\
     \ by Luke Pearson\n- (paper) [Hilda and the Troll](/books/info/9781912497546)\
     \ by Luke Pearson\n- (paper) [Snowpiercer 1-3 Boxed Set](/books/info/9781787734654)\
@@ -2811,16 +2814,17 @@ items:
   filename: null
   group: Humor
   title:
-  - Humor (4)
+  - Humor (5)
   - /books/about_humor/
   subtitle: Books about humor and comedy
   sublist_description: null
   books: []
-  description: "- (audio) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard\n-\
-    \ (paper) [Digue'm agosarat. Els mon\xF2legs](/books/info/9788483009512) by Andreu\
-    \ Buenafuente, Xavier Cassad\xF3, David Escard\xF3, Carles Torras\n- (paper) [The\
-    \ Essential Groucho](/books/info/9780140294255) by Groucho Marx\n- (paper) [Tinto\
-    \ de verano (Tinto de verano #1)](/books/info/9788466306782) by Elvira Lindo"
+  description: "- (audio) [All About Me!](/books/info/0593290747) by Mel Brooks\n\
+    - (audio) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard\n- (paper) [Digue'm\
+    \ agosarat. Els mon\xF2legs](/books/info/9788483009512) by Andreu Buenafuente,\
+    \ Xavier Cassad\xF3, David Escard\xF3, Carles Torras\n- (paper) [The Essential\
+    \ Groucho](/books/info/9780140294255) by Groucho Marx\n- (paper) [Tinto de verano\
+    \ (Tinto de verano #1)](/books/info/9788466306782) by Elvira Lindo"
 - name: about_labyrinths
   filename: null
   group: Labyrinths
@@ -3110,12 +3114,13 @@ items:
   filename: null
   group: Philosophy
   title:
-  - Philosophy (19)
+  - Philosophy (20)
   - /books/about_philosophy/
   subtitle: Books about philosophy in general, including the history of philosophy
   sublist_description: null
   books: []
-  description: "- (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius\n\
+  description: "- (paper) [Therapeutic Atlas](/books/info/9781912891931) by The School\
+    \ Of Life.\n- (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius\n\
     - (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG) by Donald\
     \ J. Robertson\n- (paper) [Discourses, Fragments, Handbook](/books/info/9780199595181)\
     \ by Epictetus\n- (paper) [Meditations](/books/info/9780812968255) by Marcus Aurelius\n\
@@ -3233,12 +3238,14 @@ items:
   filename: null
   group: Reading
   title:
-  - Reading (10)
+  - Reading (11)
   - /books/about_reading/
   subtitle: Books about reading, including critical reading and literature analysis
   sublist_description: null
   books: []
-  description: '- (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
+  description: '- (paper) [Reading Lessons](/books/info/9780130211002) by Scott Carpenter
+
+    - (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
 
     - (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
 
@@ -3261,6 +3268,17 @@ items:
     - (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad S.
     Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E. Finn, Andrew
     R. Wilson'
+- name: about_reference
+  filename: null
+  group: Reference
+  title:
+  - Reference (1)
+  - /books/about_reference/
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: "- (paper) [A Brief Atlas of the Lighthouses at the End of the World](/books/info/9781529087147)\
+    \ by Gonz\xE1lez Mac\xEDas"
 - name: about_role-playing_games
   filename: null
   group: Role-Playing Games
@@ -3270,14 +3288,14 @@ items:
   subtitle: Books about tabletop role-playing games
   sublist_description: null
   books: []
-  description: '- (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223)
+  description: '- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653)
     by Wizards RPG Team
-
-    - (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by Wizards
-    RPG Team
 
     - (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264) by Wizards
     RPG Team
+
+    - (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223)
+    by Wizards RPG Team
 
     - (paper) [Mordenkainen Presents](/books/info/9780786967872) by Wizards RPG Team
 
@@ -3393,6 +3411,16 @@ items:
     - (paper) [Liars and Outliers](/books/info/9781118143308) by Bruce Schneier
 
     - (paper) [Carry On](/books/info/9781118790816) by Bruce Schneier'
+- name: about_short_stories
+  filename: null
+  group: Short Stories
+  title:
+  - Short Stories (1)
+  - /books/about_short_stories/
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Ficciones](/books/info/9780679422990) by Jorge Luis Borges'
 - name: about_sociology
   filename: null
   group: Sociology
@@ -3524,34 +3552,36 @@ items:
   filename: null
   group: Writing
   title:
-  - Writing (39)
+  - Writing (40)
   - /books/about_writing/
   subtitle: Books about writing, grammar, and style
   sublist_description: null
   books: []
   description: "- (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee\n-\
-    \ (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson\n- (paper) [Autobiographical\
-    \ Writing Across the Disciplines](/books/info/9780822332138) by Diane P. Freedman,\
-    \ Olivia Frey\n- (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458)\
-    \ by Sylvan Barnet, William E. Cain\n- (paper) [Everything's an Argument](/books/info/9781319056278)\
-    \ by Andrea A. Lunsford, John J. Ruszkiewicz\n- (paper) [A Short Guide to Writing\
-    \ About Literature](/books/info/9780673525338) by Sylvan Barnet, Reid Gilbert\n\
-    - (audio) [Bird by Bird](/books/info/B0BJ48MQ5T) by Anne Lamott\n- (audio) [Still\
-    \ Writing](/books/info/0593216342) by Dani Shapiro\n- (audio) [Dreyer's English](/books/info/B07LFKH5FV)\
-    \ by Benjamin Dreyer\n- (audio) [The Memoir Project](/books/info/B0057A3VPE) by\
-    \ Marion Roach Smith\n- (paper) [Building Great Sentences](/books/info/9780452298606)\
-    \ by Brooks Landon\n- (audio) [The Sense of Style](/books/info/B00M8U0CJ4) by\
-    \ Steven Pinker\n- (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689)\
-    \ by Richard A. Lanham\n- (paper) [Microstyle](/books/info/9780393341812) by Christopher\
-    \ Johnson\n- (paper) [Writing with Pleasure](/books/info/9780691191775) by Helen\
-    \ Sword\n- (paper) [Artful Sentences](/books/info/9780961392185) by Virginia Tufte\n\
-    - (audio) [The Elements of Eloquence](/books/info/B00O1GCA5M) by Mark Forsyth\n\
-    - (paper) [First You Write a Sentence](/books/info/9780143134343) by Joe Moran\n\
-    - (audio) [First You Write a Sentence](/books/info/059315018X) by Joe Moran\n\
-    - (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS) by Ann Handley\n\
-    - (paper) [How to Take Smart Notes](/books/info/9783982438801) by S\xF6nke Ahrens\n\
-    - (paper) [The Best of Brevity](/books/info/9781941628232) by Zo\xEB Bossiere,\
-    \ Dinty W. Moore\n- (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603)\
+    \ (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)\
+    \ by Diane P. Freedman, Olivia Frey\n- (paper) [A Short Guide to Writing about\
+    \ Literature](/books/info/9780205118458) by Sylvan Barnet, William E. Cain\n-\
+    \ (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson\n- (paper) [Getting\
+    \ a Life](/books/info/9780816624904) by Sidonie Smith, Julia Watson\n- (paper)\
+    \ [Everything's an Argument](/books/info/9781319056278) by Andrea A. Lunsford,\
+    \ John J. Ruszkiewicz\n- (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338)\
+    \ by Sylvan Barnet, Reid Gilbert\n- (audio) [Bird by Bird](/books/info/B0BJ48MQ5T)\
+    \ by Anne Lamott\n- (audio) [Still Writing](/books/info/0593216342) by Dani Shapiro\n\
+    - (audio) [Dreyer's English](/books/info/B07LFKH5FV) by Benjamin Dreyer\n- (audio)\
+    \ [The Memoir Project](/books/info/B0057A3VPE) by Marion Roach Smith\n- (paper)\
+    \ [Building Great Sentences](/books/info/9780452298606) by Brooks Landon\n- (audio)\
+    \ [The Sense of Style](/books/info/B00M8U0CJ4) by Steven Pinker\n- (paper) [A\
+    \ Handlist of Rhetorical Terms](/books/info/9780520273689) by Richard A. Lanham\n\
+    - (paper) [Microstyle](/books/info/9780393341812) by Christopher Johnson\n- (paper)\
+    \ [Writing with Pleasure](/books/info/9780691191775) by Helen Sword\n- (paper)\
+    \ [Artful Sentences](/books/info/9780961392185) by Virginia Tufte\n- (audio) [The\
+    \ Elements of Eloquence](/books/info/B00O1GCA5M) by Mark Forsyth\n- (paper) [First\
+    \ You Write a Sentence](/books/info/9780143134343) by Joe Moran\n- (audio) [First\
+    \ You Write a Sentence](/books/info/059315018X) by Joe Moran\n- (audio) [Everybody\
+    \ Writes (2nd Edition)](/books/info/B0BX7CJVCS) by Ann Handley\n- (paper) [How\
+    \ to Take Smart Notes](/books/info/9783982438801) by S\xF6nke Ahrens\n- (paper)\
+    \ [The Best of Brevity](/books/info/9781941628232) by Zo\xEB Bossiere, Dinty W.\
+    \ Moore\n- (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603)\
     \ by Roy Peter Clark\n- (paper) [Smart Brevity](/books/info/9781523516971) by\
     \ Jim VandeHei, Mike Allen, Roy Schwartz\n- (paper) [Several Short Sentences About\
     \ Writing](/books/info/9780307279415) by Verlyn Klinkenborg\n- (audio) [On Writing](/books/info/B002V1A0WE)\

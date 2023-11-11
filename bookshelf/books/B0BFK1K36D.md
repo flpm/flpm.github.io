@@ -6,12 +6,12 @@ subtitle: Act III
 link: https://www.audible.com/pd/The-Sandman-Act-III-Audiobook/B0BFK1K36D
 author: Neil Gaiman
 narrator: Neil Gaiman
-cover_url: My%20Library%20Audible.com-1_files/51T0wO4jk1L._SL500_.jpg
+cover_url: My%20Library%20Audible.com-4_files/51T0wO4jk1L._SL500_.jpg
 cover_filename: B0BFK1K36D.jpg
 source: Audible
 book_type: audiobook
 asin: B0BFK1K36D
-format: audiobook
+format: Audiobook
 topics: []
 authors:
 - Neil Gaiman

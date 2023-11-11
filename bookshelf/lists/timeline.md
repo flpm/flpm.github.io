@@ -12,11 +12,29 @@ items:
   subtitle: null
   sublist_description: null
   books:
+  - 198484475X
+  - 0593290747
+  - '9780871404220'
+  - '9780130211002'
+  - '9780679422990'
   - B075F8XF1V
+  - '9781912891931'
   - B0BFK1K36D
   description: 'Book titles:
 
+    - (audio) [Figuring](/books/info/198484475X) by Maria Popova
+
+    - (audio) [All About Me!](/books/info/0593290747) by Mel Brooks
+
+    - (paper) [Emperor of Rome](/books/info/9780871404220) by Mary Beard
+
+    - (paper) [Reading Lessons](/books/info/9780130211002) by Scott Carpenter
+
+    - (paper) [Ficciones](/books/info/9780679422990) by Jorge Luis Borges
+
     - (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee
+
+    - (paper) [Therapeutic Atlas](/books/info/9781912891931) by The School Of Life.
 
     - (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs'
 - name: 2023-10
@@ -28,57 +46,48 @@ items:
   subtitle: null
   sublist_description: null
   books:
-  - B07M6LD93N
   - '9780197656884'
   - '9781848310308'
   - '9780822332138'
   - '9780205118458'
+  - B07M6LD93N
+  - '9781529087147'
+  - '9780816624904'
+  - '9780786966653'
   - '9781846683800'
   - '9781982167738'
   - '9781319056278'
+  - '9780786966264'
   - '9780786967223'
   - '9781781252635'
+  - '9781631402241'
   - '9780060853976'
   - '9780063081918'
   - B098TWVZVD
   - B086WP794Z
-  - '9780786966653'
-  description: 'Book titles:
-
-    - (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson
-
-    - (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
-
-    - (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
-
-    - (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)
-    by Diane P. Freedman, Olivia Frey
-
-    - (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458)
-    by Sylvan Barnet, William E. Cain
-
-    - (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard
-
-    - (paper) [Making It So](/books/info/9781982167738) by Patrick Stewart
-
-    - (paper) [Everything''s an Argument](/books/info/9781319056278) by Andrea A.
-    Lunsford, John J. Ruszkiewicz
-
-    - (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223)
-    by Wizards RPG Team
-
-    - (paper) [Shrinking Violets](/books/info/9781781252635) by Joe Moran
-
-    - (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman, Terry Pratchett
-
-    - (paper) [American Gods](/books/info/9780063081918) by Neil Gaiman
-
-    - (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk Maggs
-
-    - (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk Maggs
-
-    - (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by Wizards
-    RPG Team'
+  - '9788420637457'
+  description: "Book titles:\n- (paper) [How We Read Now](/books/info/9780197656884)\
+    \ by Naomi Baron\n- (paper) [Proust And The Squid](/books/info/9781848310308)\
+    \ by Maryanne Wolf\n- (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)\
+    \ by Diane P. Freedman, Olivia Frey\n- (paper) [A Short Guide to Writing about\
+    \ Literature](/books/info/9780205118458) by Sylvan Barnet, William E. Cain\n-\
+    \ (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson\n- (paper) [A Brief\
+    \ Atlas of the Lighthouses at the End of the World](/books/info/9781529087147)\
+    \ by Gonz\xE1lez Mac\xEDas\n- (paper) [Getting a Life](/books/info/9780816624904)\
+    \ by Sidonie Smith, Julia Watson\n- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653)\
+    \ by Wizards RPG Team\n- (paper) [Spqr](/books/info/9781846683800) by Professor\
+    \ Mary Beard\n- (paper) [Making It So](/books/info/9781982167738) by Patrick Stewart\n\
+    - (paper) [Everything's an Argument](/books/info/9781319056278) by Andrea A. Lunsford,\
+    \ John J. Ruszkiewicz\n- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264)\
+    \ by Wizards RPG Team\n- (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons\
+    \ & Dragons)](/books/info/9780786967223) by Wizards RPG Team\n- (paper) [Shrinking\
+    \ Violets](/books/info/9781781252635) by Joe Moran\n- (paper) [Locke & Key Master\
+    \ Edition Volume 1](/books/info/9781631402241) by Joe Hill\n- (paper) [Good Omens](/books/info/9780060853976)\
+    \ by Neil Gaiman, Terry Pratchett\n- (paper) [American Gods](/books/info/9780063081918)\
+    \ by Neil Gaiman\n- (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman,\
+    \ Dirk Maggs\n- (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman,\
+    \ Dirk Maggs\n- (paper) [El Cercano Oriente (Historia Universal Asimov, #1)](/books/info/9788420637457)\
+    \ by Isaac Asimov"
 - name: 2023-09
   filename: null
   group: 2023-09
@@ -88,31 +97,23 @@ items:
   subtitle: null
   sublist_description: null
   books:
-  - '9781419724015'
   - '9781668002193'
+  - '9788437507521'
   - '9781101904404'
+  - '9781419724015'
   - '9780673525338'
   - '9780143126676'
   - B0BJ48MQ5T
   - 0593291956
-  description: 'Book titles:
-
-    - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D''Onofrio
-
-    - (paper) [Fairy Tale](/books/info/9781668002193) by Stephen King
-
-    - (paper) [The Moth Presents All These Wonders](/books/info/9781101904404) by
-    Catherine Burns
-
-    - (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338)
-    by Sylvan Barnet, Reid Gilbert
-
-    - (paper) [Pocket Atlas of Remote Islands](/books/info/9780143126676) by Judith
-    Schalansky
-
-    - (audio) [Bird by Bird](/books/info/B0BJ48MQ5T) by Anne Lamott
-
-    - (audio) [The Bright Book of Life](/books/info/0593291956) by Harold Bloom'
+  description: "Book titles:\n- (paper) [Fairy Tale](/books/info/9781668002193) by\
+    \ Stephen King\n- (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521)\
+    \ by Javier S\xE1ez Cast\xE1n\n- (paper) [The Moth Presents All These Wonders](/books/info/9781101904404)\
+    \ by Catherine Burns\n- (paper) [The Moderns](/books/info/9781419724015) by Steven\
+    \ Heller, Greg D'Onofrio\n- (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338)\
+    \ by Sylvan Barnet, Reid Gilbert\n- (paper) [Pocket Atlas of Remote Islands](/books/info/9780143126676)\
+    \ by Judith Schalansky\n- (audio) [Bird by Bird](/books/info/B0BJ48MQ5T) by Anne\
+    \ Lamott\n- (audio) [The Bright Book of Life](/books/info/0593291956) by Harold\
+    \ Bloom"
 - name: 2023-08
   filename: null
   group: 2023-08
@@ -122,15 +123,13 @@ items:
   subtitle: null
   sublist_description: null
   books:
-  - '9780786966264'
   - '1984891626'
   - 0593216342
   - '9780691224398'
   - '9780691245607'
   - '9782849907481'
   - '9782228930376'
-  description: "Book titles:\n- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264)\
-    \ by Wizards RPG Team\n- (audio) [The Map of Knowledge](/books/info/1984891626)\
+  description: "Book titles:\n- (audio) [The Map of Knowledge](/books/info/1984891626)\
     \ by Violet Moller\n- (audio) [Still Writing](/books/info/0593216342) by Dani\
     \ Shapiro\n- (paper) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt\
     \ Montas\n- (paper) [The First Fossil Hunters](/books/info/9780691245607) by Adrienne\
@@ -316,7 +315,6 @@ items:
   sublist_description: null
   books:
   - '9781107675698'
-  - '9781631402241'
   - '9780520253865'
   - '9780199246359'
   - '9780520061156'
@@ -324,9 +322,6 @@ items:
 
     - (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698)
     by Clare Rowan
-
-    - (paper) [Locke & Key Master Edition Volume 1](/books/info/9781631402241) by
-    Joe Hill
 
     - (paper) [The Poems of Catullus](/books/info/9780520253865) by Catullus
 
@@ -413,15 +408,13 @@ items:
   subtitle: null
   sublist_description: null
   books:
-  - '9788437507521'
   - '9782877726894'
   - '9782877726351'
   - '9781909263796'
   - '9781911171027'
   - '9780345457684'
   - B00MFQLERK
-  description: "Book titles:\n- (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521)\
-    \ by Javier S\xE1ez Cast\xE1n\n- (paper) [Le G\xE9nie maritime romain](/books/info/9782877726894)\
+  description: "Book titles:\n- (paper) [Le G\xE9nie maritime romain](/books/info/9782877726894)\
     \ by G\xE9rard Coulon\n- (paper) [Le G\xE9nie civil de l'arm\xE9e romaine](/books/info/9782877726351)\
     \ by G\xE9rard Coulon\n- (paper) [Hilda and the Midnight Giant](/books/info/9781909263796)\
     \ by Luke Pearson\n- (paper) [Hilda and the Bird Parade](/books/info/9781911171027)\
@@ -1844,20 +1837,6 @@ items:
   description: 'Book title:
 
     - (paper) [Blink](/books/info/9780713997279) by Malcolm Gladwell'
-- name: 2007-06
-  filename: null
-  group: 2007-06
-  title:
-  - June 2007
-  - null
-  subtitle: null
-  sublist_description: null
-  books:
-  - '9788420637457'
-  description: 'Book title:
-
-    - (paper) [El Cercano Oriente (Historia Universal Asimov, #1)](/books/info/9788420637457)
-    by Isaac Asimov'
 - name: 2007-03
   filename: null
   group: 2007-03

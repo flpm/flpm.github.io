@@ -6,31 +6,40 @@ items:
 - name: in_english
   title: null
   books: &id001
+  - 198484475X
+  - 0593290747
+  - '9780871404220'
+  - '9780130211002'
+  - '9780679422990'
   - B075F8XF1V
+  - '9781912891931'
   - B0BFK1K36D
-  - B07M6LD93N
   - '9780197656884'
   - '9781848310308'
   - '9780822332138'
   - '9780205118458'
+  - B07M6LD93N
+  - '9781529087147'
+  - '9780816624904'
+  - '9780786966653'
   - '9781846683800'
   - '9781982167738'
   - '9781319056278'
+  - '9780786966264'
   - '9780786967223'
   - '9781781252635'
+  - '9781631402241'
   - '9780060853976'
   - '9780063081918'
   - B098TWVZVD
   - B086WP794Z
-  - '9780786966653'
-  - '9781419724015'
   - '9781668002193'
   - '9781101904404'
+  - '9781419724015'
   - '9780673525338'
   - '9780143126676'
   - B0BJ48MQ5T
   - 0593291956
-  - '9780786966264'
   - '1984891626'
   - 0593216342
   - '9780691224398'
@@ -67,7 +76,6 @@ items:
   - '9781941628232'
   - '1549108603'
   - '9781107675698'
-  - '9781631402241'
   - '9780199246359'
   - '9780520061156'
   - 125075044X
@@ -434,54 +442,63 @@ items:
   - B00FEFE4XK
   - B002V0RHKS
   - B002UZYX2Y
-  description: "- (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee\n-\
-    \ (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs\n-\
-    \ (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson\n- (paper) [How\
-    \ We Read Now](/books/info/9780197656884) by Naomi Baron\n- (paper) [Proust And\
-    \ The Squid](/books/info/9781848310308) by Maryanne Wolf\n- (paper) [Autobiographical\
-    \ Writing Across the Disciplines](/books/info/9780822332138) by Diane P. Freedman,\
-    \ Olivia Frey\n- (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458)\
-    \ by Sylvan Barnet, William E. Cain\n- (paper) [SPQR](/books/info/9781846683800)\
-    \ by Professor Mary Beard\n- (paper) [Making It So](/books/info/9781982167738)\
-    \ by Patrick Stewart\n- (paper) [Everything's an Argument](/books/info/9781319056278)\
-    \ by Andrea A. Lunsford, John J. Ruszkiewicz\n- (paper) [Candlekeep Mysteries\
-    \ (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223) by Wizards\
-    \ RPG Team\n- (paper) [Shrinking Violets](/books/info/9781781252635) by Joe Moran\n\
-    - (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman, Terry Pratchett\n\
-    - (paper) [American Gods](/books/info/9780063081918) by Neil Gaiman\n- (audio)\
-    \ [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk Maggs\n- (audio)\
-    \ [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk Maggs\n- (paper)\
-    \ [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by Wizards RPG Team\n\
-    - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio\n\
-    - (paper) [Fairy Tale](/books/info/9781668002193) by Stephen King\n- (paper) [The\
-    \ Moth Presents All These Wonders](/books/info/9781101904404) by Catherine Burns\n\
-    - (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338)\
+  - B00D6OQUAG
+  description: "- (audio) [Figuring](/books/info/198484475X) by Maria Popova\n- (audio)\
+    \ [All About Me!](/books/info/0593290747) by Mel Brooks\n- (paper) [Emperor of\
+    \ Rome](/books/info/9780871404220) by Mary Beard\n- (paper) [Reading Lessons](/books/info/9780130211002)\
+    \ by Scott Carpenter\n- (paper) [Ficciones](/books/info/9780679422990) by Jorge\
+    \ Luis Borges\n- (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee\n\
+    - (paper) [Therapeutic Atlas](/books/info/9781912891931) by The School Of Life.\n\
+    - (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs\n-\
+    \ (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron\n- (paper)\
+    \ [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf\n- (paper)\
+    \ [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)\
+    \ by Diane P. Freedman, Olivia Frey\n- (paper) [A Short Guide to Writing about\
+    \ Literature](/books/info/9780205118458) by Sylvan Barnet, William E. Cain\n-\
+    \ (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson\n- (paper) [A Brief\
+    \ Atlas of the Lighthouses at the End of the World](/books/info/9781529087147)\
+    \ by Gonz\xE1lez Mac\xEDas\n- (paper) [Getting a Life](/books/info/9780816624904)\
+    \ by Sidonie Smith, Julia Watson\n- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653)\
+    \ by Wizards RPG Team\n- (paper) [Spqr](/books/info/9781846683800) by Professor\
+    \ Mary Beard\n- (paper) [Making It So](/books/info/9781982167738) by Patrick Stewart\n\
+    - (paper) [Everything's an Argument](/books/info/9781319056278) by Andrea A. Lunsford,\
+    \ John J. Ruszkiewicz\n- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264)\
+    \ by Wizards RPG Team\n- (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons\
+    \ & Dragons)](/books/info/9780786967223) by Wizards RPG Team\n- (paper) [Shrinking\
+    \ Violets](/books/info/9781781252635) by Joe Moran\n- (paper) [Locke & Key Master\
+    \ Edition Volume 1](/books/info/9781631402241) by Joe Hill\n- (paper) [Good Omens](/books/info/9780060853976)\
+    \ by Neil Gaiman, Terry Pratchett\n- (paper) [American Gods](/books/info/9780063081918)\
+    \ by Neil Gaiman\n- (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman,\
+    \ Dirk Maggs\n- (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman,\
+    \ Dirk Maggs\n- (paper) [Fairy Tale](/books/info/9781668002193) by Stephen King\n\
+    - (paper) [The Moth Presents All These Wonders](/books/info/9781101904404) by\
+    \ Catherine Burns\n- (paper) [The Moderns](/books/info/9781419724015) by Steven\
+    \ Heller, Greg D'Onofrio\n- (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338)\
     \ by Sylvan Barnet, Reid Gilbert\n- (paper) [Pocket Atlas of Remote Islands](/books/info/9780143126676)\
     \ by Judith Schalansky\n- (audio) [Bird by Bird](/books/info/B0BJ48MQ5T) by Anne\
     \ Lamott\n- (audio) [The Bright Book of Life](/books/info/0593291956) by Harold\
-    \ Bloom\n- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264) by\
-    \ Wizards RPG Team\n- (audio) [The Map of Knowledge](/books/info/1984891626) by\
-    \ Violet Moller\n- (audio) [Still Writing](/books/info/0593216342) by Dani Shapiro\n\
-    - (paper) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt Montas\n\
-    - (paper) [The First Fossil Hunters](/books/info/9780691245607) by Adrienne Mayor\n\
-    - (audio) [Dreyer's English](/books/info/B07LFKH5FV) by Benjamin Dreyer\n- (audio)\
-    \ [The Memoir Project](/books/info/B0057A3VPE) by Marion Roach Smith\n- (paper)\
-    \ [Building Great Sentences](/books/info/9780452298606) by Brooks Landon\n- (paper)\
-    \ [Mordenkainen Presents](/books/info/9780786967872) by Wizards RPG Team\n- (paper)\
-    \ [Get to the Point!](/books/info/9781523094110) by Joel Schwartzberg\n- (audio)\
-    \ [The Art of X-Ray Reading](/books/info/B019S38272) by Roy Peter Clark\n- (audio)\
-    \ [Get to the Point!](/books/info/B075FG7HLK) by Joel Schwartzberg\n- (audio)\
-    \ [The Sense of Style](/books/info/B00M8U0CJ4) by Steven Pinker\n- (paper) [Tasha's\
-    \ Cauldron of Everything (D&D Rules Expansion) (Dungeons & Dragons)](/books/info/9780786967025)\
-    \ by Wizards RPG Team\n- (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689)\
-    \ by Richard A. Lanham\n- (paper) [Microstyle](/books/info/9780393341812) by Christopher\
-    \ Johnson\n- (paper) [Writing with Pleasure](/books/info/9780691191775) by Helen\
-    \ Sword\n- (paper) [Artful Sentences](/books/info/9780961392185) by Virginia Tufte\n\
-    - (audio) [The Elements of Eloquence](/books/info/B00O1GCA5M) by Mark Forsyth\n\
-    - (paper) [First You Write a Sentence](/books/info/9780143134343) by Joe Moran\n\
-    - (paper) [Language in Thought and Action](/books/info/9780156482400) by S.I.\
-    \ Hayakawa, Alan R. Hayakawa\n- (audio) [First You Write a Sentence](/books/info/059315018X)\
-    \ by Joe Moran\n- (paper) [Architecture Patterns with Python](/books/info/9781492052203)\
+    \ Bloom\n- (audio) [The Map of Knowledge](/books/info/1984891626) by Violet Moller\n\
+    - (audio) [Still Writing](/books/info/0593216342) by Dani Shapiro\n- (paper) [Rescuing\
+    \ Socrates](/books/info/9780691224398) by Roosevelt Montas\n- (paper) [The First\
+    \ Fossil Hunters](/books/info/9780691245607) by Adrienne Mayor\n- (audio) [Dreyer's\
+    \ English](/books/info/B07LFKH5FV) by Benjamin Dreyer\n- (audio) [The Memoir Project](/books/info/B0057A3VPE)\
+    \ by Marion Roach Smith\n- (paper) [Building Great Sentences](/books/info/9780452298606)\
+    \ by Brooks Landon\n- (paper) [Mordenkainen Presents](/books/info/9780786967872)\
+    \ by Wizards RPG Team\n- (paper) [Get to the Point!](/books/info/9781523094110)\
+    \ by Joel Schwartzberg\n- (audio) [The Art of X-Ray Reading](/books/info/B019S38272)\
+    \ by Roy Peter Clark\n- (audio) [Get to the Point!](/books/info/B075FG7HLK) by\
+    \ Joel Schwartzberg\n- (audio) [The Sense of Style](/books/info/B00M8U0CJ4) by\
+    \ Steven Pinker\n- (paper) [Tasha's Cauldron of Everything (D&D Rules Expansion)\
+    \ (Dungeons & Dragons)](/books/info/9780786967025) by Wizards RPG Team\n- (paper)\
+    \ [A Handlist of Rhetorical Terms](/books/info/9780520273689) by Richard A. Lanham\n\
+    - (paper) [Microstyle](/books/info/9780393341812) by Christopher Johnson\n- (paper)\
+    \ [Writing with Pleasure](/books/info/9780691191775) by Helen Sword\n- (paper)\
+    \ [Artful Sentences](/books/info/9780961392185) by Virginia Tufte\n- (audio) [The\
+    \ Elements of Eloquence](/books/info/B00O1GCA5M) by Mark Forsyth\n- (paper) [First\
+    \ You Write a Sentence](/books/info/9780143134343) by Joe Moran\n- (paper) [Language\
+    \ in Thought and Action](/books/info/9780156482400) by S.I. Hayakawa, Alan R.\
+    \ Hayakawa\n- (audio) [First You Write a Sentence](/books/info/059315018X) by\
+    \ Joe Moran\n- (paper) [Architecture Patterns with Python](/books/info/9781492052203)\
     \ by Harry Percival, Bob Gregory\n- (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS)\
     \ by Ann Handley\n- (paper) [Volo's Guide to Monsters](/books/info/9780786966011)\
     \ by Wizards RPG Team\n- (paper) [Dragons & Treasures](/books/info/9781984858801)\
@@ -500,10 +517,9 @@ items:
     \ by Zo\xEB Bossiere, Dinty W. Moore\n- (audio) [Writing Tools (10th Anniversary\
     \ Edition)](/books/info/1549108603) by Roy Peter Clark\n- (paper) [From Caesar\
     \ to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698) by Clare Rowan\n- (paper)\
-    \ [Locke & Key Master Edition Volume 1](/books/info/9781631402241) by Joe Hill\n\
-    - (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359) by\
-    \ J.C. Catford\n- (paper) [Cuneiform](/books/info/9780520061156) by C. B. F. Walker\n\
-    - (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd Portnowitz\n\
+    \ [A Practical Introduction to Phonetics](/books/info/9780199246359) by J.C. Catford\n\
+    - (paper) [Cuneiform](/books/info/9780520061156) by C. B. F. Walker\n- (audio)\
+    \ [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd Portnowitz\n\
     - (paper) [Chronology of the Ancient World, 10,000 B.C. to A.D. 799](/books/info/9780133264227)\
     \ by H. E. L. Mellersh\n- (paper) [LOGO Modernism](/books/info/9783836545303)\
     \ by Jens M\xFCller\n- (paper) [Story Of Writing Second Edition](/books/info/9780500286609)\
@@ -889,7 +905,8 @@ items:
     \ [The Complete Sherlock Holmes](/books/info/B00FEFE4XK) by Arthur Conan Doyle\n\
     - (audio) [The Complete Stories of Sherlock Holmes, Volume 1](/books/info/B002V0RHKS)\
     \ by Arthur Conan Doyle\n- (audio) [The Pillars of the Earth](/books/info/B002UZYX2Y)\
-    \ by Ken Follett"
+    \ by Ken Follett\n- (audio) [Analysis and Critique](/books/info/B00D6OQUAG) by\
+    \ Dorsey Armstrong"
 filename: null
 group: English
 sublist_description: null

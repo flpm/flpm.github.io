@@ -9358,6 +9358,17 @@ items:
   books: []
   description: '- (paper) [A Primer of Visual Literacy](/books/info/9780262540292)
     by Donis A Dondis'
+- name: dorsey_armstrong
+  filename: null
+  group: Dorsey Armstrong
+  title:
+  - Dorsey Armstrong (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Analysis and Critique](/books/info/B00D6OQUAG) by Dorsey
+    Armstrong'
 - name: douglas_crockford
   filename: null
   group: Douglas Crockford
@@ -9912,6 +9923,17 @@ items:
   books: []
   description: '- (paper) [Code as Creative Medium](/books/info/9780262542043) by
     Tega Brain, Golan Levin'
+- name: "gonz\xE1lez_mac\xEDas"
+  filename: null
+  group: "Gonz\xE1lez Mac\xEDas"
+  title:
+  - "Gonz\xE1lez Mac\xEDas (1)"
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: "- (paper) [A Brief Atlas of the Lighthouses at the End of the World](/books/info/9781529087147)\
+    \ by Gonz\xE1lez Mac\xEDas"
 - name: gordon_j._g._asmundson
   filename: null
   group: Gordon J. G. Asmundson
@@ -11024,6 +11046,16 @@ items:
     \ by Jorge Amado\n- (paper) [Suor](/books/info/9788501053145) by Jorge Amado\n\
     - (paper) [A Descoberta Da America Pelos Turcos](/books/info/9788501041616) by\
     \ Jorge Amado"
+- name: jorge_luis_borges
+  filename: null
+  group: Jorge Luis Borges
+  title:
+  - Jorge Luis Borges (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Ficciones](/books/info/9780679422990) by Jorge Luis Borges'
 - name: jose_saramago
   filename: null
   group: Jose Saramago
@@ -11186,6 +11218,17 @@ items:
   books: []
   description: '- (paper) [Vingt mille lieues sous les mers](/books/info/9782070424832)
     by Jules Verne'
+- name: julia_watson
+  filename: null
+  group: Julia Watson
+  title:
+  - Julia Watson (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Getting a Life](/books/info/9780816624904) by Sidonie Smith,
+    Julia Watson'
 - name: julie_zhuo
   filename: null
   group: Julie Zhuo
@@ -11748,6 +11791,16 @@ items:
   books: []
   description: '- (audio) [The Riddle of the Labyrinth](/books/info/B00F3IZ0CM) by
     Margalit Fox'
+- name: maria_popova
+  filename: null
+  group: Maria Popova
+  title:
+  - Maria Popova (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Figuring](/books/info/198484475X) by Maria Popova'
 - name: marion_roach_smith
   filename: null
   group: Marion Roach Smith
@@ -11855,12 +11908,14 @@ items:
   filename: null
   group: Mary Beard
   title:
-  - Mary Beard (2)
+  - Mary Beard (3)
   - null
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
+  description: '- (paper) [Emperor of Rome](/books/info/9780871404220) by Mary Beard
+
+    - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
 
     - (audio) [The Fires of Vesuvius](/books/info/197734996X) by Mary Beard'
 - name: mary_del_priore
@@ -11972,6 +12027,16 @@ items:
   books: []
   description: '- (paper) [Knowledge Graphs](/books/info/9780262045094) by Mayank
     Kejriwal, Pedro Szekely, Craig A. Knoblock'
+- name: mel_brooks
+  filename: null
+  group: Mel Brooks
+  title:
+  - Mel Brooks (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [All About Me!](/books/info/0593290747) by Mel Brooks'
 - name: michael_redmond
   filename: null
   group: Michael Redmond
@@ -12455,7 +12520,7 @@ items:
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard'
+  description: '- (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard'
 - name: r._paul_wilson
   filename: null
   group: R. Paul Wilson
@@ -12915,6 +12980,16 @@ items:
   books: []
   description: '- (paper) [Call of Cthulhu](/books/info/9781568821818) by Sandy Petersen,
     Lynn Willis'
+- name: scott_carpenter
+  filename: null
+  group: Scott Carpenter
+  title:
+  - Scott Carpenter (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Reading Lessons](/books/info/9780130211002) by Scott Carpenter'
 - name: scott_e._page
   filename: null
   group: Scott E. Page
@@ -13002,6 +13077,17 @@ items:
   sublist_description: null
   books: []
   description: '- (paper) [A Gamut of Games](/books/info/9780486273471) by Sid Sackson'
+- name: sidonie_smith
+  filename: null
+  group: Sidonie Smith
+  title:
+  - Sidonie Smith (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Getting a Life](/books/info/9780816624904) by Sidonie Smith,
+    Julia Watson'
 - name: simon_singh
   filename: null
   group: Simon Singh
@@ -13337,6 +13423,17 @@ items:
     - (paper) [Small Gods (Discworld, #13)](/books/info/9780061092176) by Terry Pratchett
 
     - (paper) [Men At Arms](/books/info/9780552140287) by Terry Pratchett'
+- name: the_school_of_life.
+  filename: null
+  group: The School Of Life.
+  title:
+  - The School Of Life. (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Therapeutic Atlas](/books/info/9781912891931) by The School
+    Of Life.'
 - name: the_school_of_life
   filename: null
   group: The School of Life
@@ -13707,14 +13804,14 @@ items:
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223)
+  description: '- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653)
     by Wizards RPG Team
-
-    - (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by Wizards
-    RPG Team
 
     - (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264) by Wizards
     RPG Team
+
+    - (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223)
+    by Wizards RPG Team
 
     - (paper) [Mordenkainen Presents](/books/info/9780786967872) by Wizards RPG Team
 

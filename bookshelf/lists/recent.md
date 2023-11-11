@@ -12,33 +12,31 @@ items:
   subtitle: null
   sublist_description: null
   books:
+  - 198484475X
+  - 0593290747
+  - '9780871404220'
+  - '9780130211002'
+  - '9780679422990'
   - B075F8XF1V
+  - '9781912891931'
   - B0BFK1K36D
-  - B07M6LD93N
-  - '9780197656884'
-  - '9781848310308'
-  - '9780822332138'
-  - '9780205118458'
-  - '9781846683800'
   description: 'Book titles:
+
+    - (audio) [Figuring](/books/info/198484475X) by Maria Popova
+
+    - (audio) [All About Me!](/books/info/0593290747) by Mel Brooks
+
+    - (paper) [Emperor of Rome](/books/info/9780871404220) by Mary Beard
+
+    - (paper) [Reading Lessons](/books/info/9780130211002) by Scott Carpenter
+
+    - (paper) [Ficciones](/books/info/9780679422990) by Jorge Luis Borges
 
     - (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee
 
-    - (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs
+    - (paper) [Therapeutic Atlas](/books/info/9781912891931) by The School Of Life.
 
-    - (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson
-
-    - (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
-
-    - (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
-
-    - (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)
-    by Diane P. Freedman, Olivia Frey
-
-    - (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458)
-    by Sylvan Barnet, William E. Cain
-
-    - (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard'
+    - (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs'
 ---
 
 

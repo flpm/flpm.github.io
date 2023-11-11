@@ -6,6 +6,7 @@ filename: null
 group: Reading
 sublist_description: null
 books: &id001
+- '9780130211002'
 - '9780197656884'
 - '9781848310308'
 - 0593291956
@@ -20,7 +21,9 @@ items:
 - name: about_reading
   title: null
   books: *id001
-  description: '- (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
+  description: '- (paper) [Reading Lessons](/books/info/9780130211002) by Scott Carpenter
+
+    - (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
 
     - (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
 

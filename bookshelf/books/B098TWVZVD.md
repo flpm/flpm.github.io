@@ -6,12 +6,12 @@ subtitle: Act II
 link: https://www.audible.com/pd/The-Sandman-Act-II-Audiobook/B098TWVZVD
 author: Neil Gaiman
 narrator: Neil Gaiman
-cover_url: My%20Library%20Audible.com-1_files/51bJGmUXS9L._SL500_.jpg
+cover_url: My%20Library%20Audible.com-4_files/51bJGmUXS9L._SL500_.jpg
 cover_filename: B098TWVZVD.jpg
 source: Audible
 book_type: audiobook
 asin: B098TWVZVD
-format: audiobook
+format: Audiobook
 topics: []
 authors:
 - Neil Gaiman

@@ -29,7 +29,7 @@ export async function getStaticPaths() {
 
 function makeDescription(read_status, book_type = "book") {
   let description = "";
-  if (read_status == null) return "I have not written about this book yet.";
+  if (read_status == null) return "I have not read this book yet.";
   const start = read_status.start != null;
   const finish = read_status.finish != null;
   const like = read_status.like != null;
