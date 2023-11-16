@@ -1299,8 +1299,9 @@ items:
     - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard\n- (audio) [The Fires of\
     \ Vesuvius](/books/info/197734996X) by Mary Beard\n- (paper) [The Grammar of Romance](/books/info/9781475246636)\
     \ by Joshua Rudder\n- (paper) [Vita Nostra](/books/info/9781093905632) by Stephen\
-    \ a Berard\n- (paper) [The Complete Roman Army](/books/info/9780500288993) by\
-    \ Adrian Goldsworthy\n- (paper) [Snowpiercer 1-3 Boxed Set](/books/info/9781787734654)\
+    \ a Berard\n- (paper) [Why Design Matters](/books/info/9780062872968) by Debbie\
+    \ Millman\n- (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian\
+    \ Goldsworthy\n- (paper) [Snowpiercer 1-3 Boxed Set](/books/info/9781787734654)\
     \ by Jacques Lob, Benjamin Legrand, Olivier Bocquet\n- (audio) [Classical Archaeology\
     \ of Ancient Greece and Rome](/books/info/B00DG7NVXC) by John R. Hale\n- (paper)\
     \ [Meditations](/books/info/9781541673854) by Marcus Aurelius\n- (audio) [How\
@@ -1402,7 +1403,9 @@ items:
     \ #2)](/books/info/9784906574117) by Kiyoshi Kosugi, James Davies\n- (paper) [Moonwalking\
     \ with Einstein](/books/info/9781101475973) by Joshua Foer\n- (paper) [The Treasure\
     \ Chest Enigma](/books/info/9784871871020) by Noriyuki Nakayama\n- (paper) [Security\
-    \ Engineering](/books/info/9780470068526) by Ross J. Anderson\n- (paper) [Why](/books/info/9781491949641)\
+    \ Engineering](/books/info/9780470068526) by Ross J. Anderson\n- (paper) [An Encyclopedia\
+    \ of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664)\
+    \ by James Randi, Arthur C. Clarke\n- (paper) [Why](/books/info/9781491949641)\
     \ by Samantha Kleinberg\n- (paper) [Why Cats Land on Their Feet](/books/info/9780691148540)\
     \ by Mark Levi\n- (paper) [Discovering Statistics Using R](/books/info/9781446200469)\
     \ by Andy Field, Jeremy Miles, Zoe Field\n- (paper) [Graded Go Problems For Beginners\
@@ -1498,8 +1501,7 @@ items:
     - (paper) [Letters of Credit](/books/info/9780879236366) by Walter Tracey\n- (paper)\
     \ [A Primer of Visual Literacy](/books/info/9780262540292) by Donis A Dondis\n\
     - (paper) [MTIV Process, Inspiration and Practice for the New Media Designer](/books/info/9780735711655)\
-    \ by Hillman Curtis\n- (paper) [Why Design Matters](/books/info/9780062872968)\
-    \ by Debbie Millman\n- (paper) [Helvetica and the New York City Subway System](/books/info/9780262015486)\
+    \ by Hillman Curtis\n- (paper) [Helvetica and the New York City Subway System](/books/info/9780262015486)\
     \ by Paul Shaw\n- (paper) [The Book of Circles: Visualizing Spheres of Knowledge](/books/info/9781616895280)\
     \ by Manuel Lima\n- (paper) [Emotional Design](/books/info/9780465051366) by Don\
     \ Norman\n- (paper) [It's Not How Good You Are, It's How Good You Want To Be](/books/info/9780714843377)\
@@ -1570,11 +1572,9 @@ items:
     - (paper) [How to Be a Stoic](/books/info/9781541644533) by Massimo Pigliucci\n\
     - (paper) [Letters from a Stoic](/books/info/9780140442106) by Seneca\n- (paper)\
     \ [Liars and Outliers](/books/info/9781118143308) by Bruce Schneier\n- (paper)\
-    \ [Carry On](/books/info/9781118790816) by Bruce Schneier\n- (paper) [An Encyclopedia\
-    \ of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664)\
-    \ by James Randi, Arthur C. Clarke\n- (paper) [Failure Is Not an Option](/books/info/9780743200790)\
-    \ by Gene Kranz\n- (paper) [The Hobbit](/books/info/9780547928241) by J. R. R.\
-    \ Tolkien\n- (paper) [Something Under the Bed Is Drooling](/books/info/9780751504835)\
+    \ [Carry On](/books/info/9781118790816) by Bruce Schneier\n- (paper) [Failure\
+    \ Is Not an Option](/books/info/9780743200790) by Gene Kranz\n- (paper) [The Hobbit](/books/info/9780547928241)\
+    \ by J. R. R. Tolkien\n- (paper) [Something Under the Bed Is Drooling](/books/info/9780751504835)\
     \ by Bill Watterson\n- (paper) [Little Wizards Second Printing](/books/info/9781940094984)\
     \ by Crafty Games, Antoine Bauza\n- (paper) [The Calvin and Hobbes Lazy Sunday\
     \ Book](/books/info/9780836218527) by Bill Watterson\n- (paper) [The Far Side\

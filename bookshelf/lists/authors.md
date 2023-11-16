@@ -9206,10 +9206,11 @@ items:
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (paper) [How to Think Like a Great Graphic Designer](/books/info/9781581154962)
-    by Debbie Millman
+  description: '- (paper) [Why Design Matters](/books/info/9780062872968) by Debbie
+    Millman
 
-    - (paper) [Why Design Matters](/books/info/9780062872968) by Debbie Millman'
+    - (paper) [How to Think Like a Great Graphic Designer](/books/info/9781581154962)
+    by Debbie Millman'
 - name: deborah_j_bennett
   filename: null
   group: Deborah J Bennett

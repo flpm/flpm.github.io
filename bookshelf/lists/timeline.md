@@ -503,6 +503,7 @@ items:
   - '9781475246636'
   - '9781093905632'
   - '9780199124183'
+  - '9780062872968'
   - '9780500288993'
   - '9781585102327'
   description: "Book titles:\n- (audio) [The Fires of Vesuvius](/books/info/197734996X)\
@@ -510,7 +511,8 @@ items:
     \ B. Solodow\n- (paper) [The Grammar of Romance](/books/info/9781475246636) by\
     \ Joshua Rudder\n- (paper) [Vita Nostra](/books/info/9781093905632) by Stephen\
     \ a Berard\n- (paper) [Oxford Latin Course](/books/info/9780199124183) by James\
-    \ Morwood\n- (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian\
+    \ Morwood\n- (paper) [Why Design Matters](/books/info/9780062872968) by Debbie\
+    \ Millman\n- (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian\
     \ Goldsworthy\n- (paper) [Lingua Latina: Caesaris](/books/info/9781585102327)\
     \ by Hans Henning \xD8rberg, Gaius Julius Caesar"
 - name: 2022-02
@@ -1307,6 +1309,20 @@ items:
     - (paper) [The Treasure Chest Enigma](/books/info/9784871871020) by Noriyuki Nakayama
 
     - (paper) [Security Engineering](/books/info/9780470068526) by Ross J. Anderson'
+- name: 2013-06
+  filename: null
+  group: 2013-06
+  title:
+  - June 2013
+  - null
+  subtitle: null
+  sublist_description: null
+  books:
+  - '9780312130664'
+  description: 'Book title:
+
+    - (paper) [An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664)
+    by James Randi, Arthur C. Clarke'
 - name: 2013-05
   filename: null
   group: 2013-05
