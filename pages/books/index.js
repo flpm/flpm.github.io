@@ -37,25 +37,42 @@ export default function Bookshelf({ data }) {
           </div>
           <div className="markdown-content text-xl">
             <p>
-              You can browse through the indexes:{" "}
-              <Link href="/books/languages">by languages</Link>
-              {", "}
-              <Link href="/books/authors">by authors</Link> and{" "}
-              <Link href="/books/subjects">by subjects</Link>.
+              In 2022, I decided to start a new personal project to catalogue my
+              books and audiobooks. Collecting and processing the data was a
+              technical challenge, but I am now able to explore my library in
+              ways I could not by just looking at the books on the shelf.
             </p>
             <p>
-              You can check the{" "}
-              <Link href="/books/recent">recent additions</Link>, the list of{" "}
-              <Link href="/books/signed">signed books</Link>, or the list of{" "}
-              <Link href="/books/multiple_formats">
-                books I own in multiple formats
-              </Link>
-              .
+              If you are interested in taking a look around, the best way to
+              explore is using the <Link href="/books/timeline">timeline</Link>,
+              but you can also:
+              <ul className="pt-4">
+                <li>
+                  check the <Link href="/books/recent">recent additions</Link>
+                </li>{" "}
+                <li>
+                  look at my list of{" "}
+                  <Link href="/books/signed">signed books</Link>
+                </li>
+                <li>
+                  {" "}
+                  see which books I own{" "}
+                  <Link href="/books/multiple_formats">
+                    in multiple formats
+                  </Link>
+                </li>
+                <li>
+                  search the indexes:{" "}
+                  <Link href="/books/languages">by languages</Link>
+                  {", "}
+                  <Link href="/books/authors">by authors</Link> and{" "}
+                  <Link href="/books/subjects">by subjects</Link>.
+                </li>
+              </ul>
             </p>
             <p>
-              {" "}
-              Or you can simple browse the entire library as a{" "}
-              <Link href="/books/timeline">timeline</Link>.
+              Or, if you are feeling adventurous, just continue scrolling for
+              the books in random order.
             </p>
           </div>
         </div>
