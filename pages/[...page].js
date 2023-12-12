@@ -61,8 +61,8 @@ export default function Page({ data }) {
             </div>
           </div>
           <div className="markdown-content text-xl">
-            <p>
-              This page was last updated on <Date dateString={data.date} />.
+            <p className="text-slate-300">
+              Last updated on <Date dateString={data.date} />.
             </p>
             <ReactMarkdown
               components={{

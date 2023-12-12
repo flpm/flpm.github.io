@@ -22,7 +22,13 @@
     @apply text-2xl font-semibold pb-4 pt-4;
 }
 
+.markdown-content blockquote {
+    @apply border-l-[12px] border-gray-200 pl-4 italic mb-4;
+}
 
+.markdown-content blockquote p{
+    @apply pb-4 pt-2 text-slate-600;
+}
 
 .markdown-content-part p {
     @apply last:pb-0;
