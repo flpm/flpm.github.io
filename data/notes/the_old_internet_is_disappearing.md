@@ -8,8 +8,8 @@ content-description:
     - link: 'http://petermolnar.net/journal/internet-emotional-core/'
       title: 'The Internet that took over the Internet'
 related:
-    - label: 'The old Internet is disappearing'
-      link: '/notes/the_old_internet_is_disappearing'
+    - label: 'How the blog broke the web'
+      link: '/notes/how_the_blog_changed_the_web'
 ---
 
 These are my notes about the article [The Internet that took over the Internet](http://petermolnar.net/journal/internet-emotional-core/), by [Peter Molnar](http://petermolnar.net/).

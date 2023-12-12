@@ -8,7 +8,7 @@ content-description:
     - link: 'https://stackingthebricks.com/how-blogs-broke-the-web/'
       title: 'How the blog broke the web'
 related:
-    - label: 'How the blog changed the web'
+    - label: 'The old Internet is disappearing'
       link: '/notes/the_old_internet_is_disappearing'
 ---
 
