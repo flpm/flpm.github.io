@@ -1,5 +1,5 @@
 ---
-title: 'Other interesting sites'
+title: 'Links'
 subtitle: 'Some people I think you should know about'
 date: '2023-12-16'
 ---
@@ -35,4 +35,4 @@ Other posts you can take a look:
 
 His article [A Coder Considers the Waning Days of the Craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft) in the 2023 issue of the New Yorker dedicate to AI is a good introduction.
 
-And I ended up buying the book [Field Notes on Science & Nature](http://localhost:3000/books/info/9780674057579/) because of one of his posts, [More people should write](https://jsomers.net/blog/more-people-should-write).
+And I ended up buying the book [Field Notes on Science & Nature](/books/info/9780674057579/) because of one of his posts, [More people should write](https://jsomers.net/blog/more-people-should-write).

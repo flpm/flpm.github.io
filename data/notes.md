@@ -1,23 +1,19 @@
 ---
 title: 'Notes'
-subtitle: 'Various things I am thinking about'
-date: '2023-08-23'
+subtitle: 'Some thoughts and ideas'
+date: '2023-12-13'
 ---
 
-### Books and audiobooks
+### Aboute the web
 
-- [Books I read before](/notes/finished_books).
-- [Books I want to read](/notes/to_read).
+- [How the blog changed the web](/notes/how_the_blog_changed_the_web)
+- [The old Internet is disappearing](/notes/the_old_internet_is_disappearing)
 
 
-### Security
-
-- TODO
-
-### Design
+### About books
 
 - TODO
 
-### Data
+### About notes
 
-- TODO
+- Andy Matuschak's [Evergreen Notes](https://notes.andymatuschak.org/Evergreen_notes)
