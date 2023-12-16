@@ -24,8 +24,8 @@ export default function Layout({ title, children, gridClassName }) {
       <div className="flex flex-col h-screen">
         <FrameTop
           siteMenu={[
-            ["now", "/now"],
             ["about", "/about"],
+            ["links", "/links"],
             ["books", "/books"],
             ["projects", "/projects"],
           ]}

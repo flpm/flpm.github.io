@@ -6,9 +6,9 @@ filename: null
 group: Role-Playing Games
 sublist_description: null
 books: &id001
+- '9780786967223'
 - '9780786966653'
 - '9780786966264'
-- '9780786967223'
 - '9780786967872'
 - '9780786967025'
 - '9780786966011'
@@ -32,14 +32,14 @@ items:
 - name: about_role-playing_games
   title: null
   books: *id001
-  description: '- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653)
+  description: '- (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223)
     by Wizards RPG Team
+
+    - (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by Wizards
+    RPG Team
 
     - (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264) by Wizards
     RPG Team
-
-    - (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223)
-    by Wizards RPG Team
 
     - (paper) [Mordenkainen Presents](/books/info/9780786967872) by Wizards RPG Team
 

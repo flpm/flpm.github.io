@@ -12,13 +12,13 @@ listening:
   duration: 940.0
   first_time: '2023-05-15'
   last_time: '2023-05-15'
-link: https://www.audible.com/pd/Herodotus-The-Father-of-History-Audiobook/B00DC8CFZK
+link: https://www.audible.com/pd/B00DC8CFZK
 source: Audible
 listening_date: '2023-05-15'
 read_status:
-  start: true
   finish: true
   like: true
+  start: true
 theme: ancient history
 topics:
 - Ancient

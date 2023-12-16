@@ -7,9 +7,9 @@ group: Graphic Novels
 sublist_description: null
 books: &id001
 - B0BFK1K36D
-- '9781631402241'
 - B098TWVZVD
 - B086WP794Z
+- '9781631402241'
 - '9781909263796'
 - '9781911171027'
 - '9781912497546'
@@ -41,10 +41,10 @@ items:
   title: null
   books: *id001
   description: "- (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk\
+    \ Maggs\n- (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk\
+    \ Maggs\n- (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk\
     \ Maggs\n- (paper) [Locke & Key Master Edition Volume 1](/books/info/9781631402241)\
-    \ by Joe Hill\n- (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman,\
-    \ Dirk Maggs\n- (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman,\
-    \ Dirk Maggs\n- (paper) [Hilda and the Midnight Giant](/books/info/9781909263796)\
+    \ by Joe Hill\n- (paper) [Hilda and the Midnight Giant](/books/info/9781909263796)\
     \ by Luke Pearson\n- (paper) [Hilda and the Bird Parade](/books/info/9781911171027)\
     \ by Luke Pearson\n- (paper) [Hilda and the Troll](/books/info/9781912497546)\
     \ by Luke Pearson\n- (paper) [Snowpiercer 1-3 Boxed Set](/books/info/9781787734654)\

@@ -15,9 +15,9 @@ link: https://www.audible.com/pd/B00D7JMGEY
 source: Audible
 listening_date: '2022-10-05'
 read_status:
-  start: true
   finish: true
   like: true
+  start: true
 theme: ancient history
 topics:
 - Politicians

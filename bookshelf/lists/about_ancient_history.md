@@ -6,9 +6,9 @@ filename: null
 group: Ancient History
 sublist_description: null
 books: &id001
+- '9780691242286'
 - '9780871404220'
 - '9781846683800'
-- '9788420637457'
 - '9782228930376'
 - '9781107675698'
 - '9780133264227'
@@ -29,6 +29,7 @@ books: &id001
 - B078HDSHQJ
 - '9780806140278'
 - B07MDHVBLY
+- '9788420637457'
 - '9788420635347'
 - '9788420635484'
 - '9788420637440'
@@ -36,10 +37,8 @@ books: &id001
 - '9788420635507'
 - B00D8HXDPQ
 - B01KMXAL9Y
-- B002V8KXYC
 - B00DC8CFZK
 - B00D6OQFZG
-- B00XP3CMHI
 - B013KRSIVC
 - B00LG7MR20
 - B00DB92ATG
@@ -56,11 +55,11 @@ items:
 - name: about_ancient_history
   title: null
   books: *id001
-  description: "- (paper) [Emperor of Rome](/books/info/9780871404220) by Mary Beard\n\
+  description: "- (paper) [Journeys of the Mind](/books/info/9780691242286) by Peter\
+    \ Brown\n- (paper) [Emperor of Rome](/books/info/9780871404220) by Mary Beard\n\
     - (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard\n- (paper)\
-    \ [El Cercano Oriente (Historia Universal Asimov, #1)](/books/info/9788420637457)\
-    \ by Isaac Asimov\n- (paper) [Une journ\xE9e dans la Rome antique](/books/info/9782228930376)\
-    \ by Alberto Angela\n- (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698)\
+    \ [Une journ\xE9e dans la Rome antique](/books/info/9782228930376) by Alberto\
+    \ Angela\n- (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698)\
     \ by Clare Rowan\n- (paper) [Chronology of the Ancient World, 10,000 B.C. to A.D.\
     \ 799](/books/info/9780133264227) by H. E. L. Mellersh\n- (audio) [The Greek and\
     \ Persian Wars](/books/info/B00DC5SB06) by John R. Hale\n- (paper) [Cannae](/books/info/9781541699250)\
@@ -79,17 +78,16 @@ items:
     \ of Rome](/books/info/B078HDSHQJ) by Gregory S. Aldrete\n- (paper) [Daily Life\
     \ in the Roman City](/books/info/9780806140278) by Gregory S. Aldrete\n- (audio)\
     \ [The Roman Empire](/books/info/B07MDHVBLY) by Gregory S. Aldrete\n- (paper)\
-    \ [La Rep\xFAblica Romana](/books/info/9788420635347) by Isaac Asimov\n- (paper)\
-    \ [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov\n- (paper) [Los\
-    \ griegos](/books/info/9788420637440) by Isaac Asimov\n- (paper) [L'Histoire commence\
-    \ \xE0 Sumer](/books/info/9782080812988) by Samuel Noah Kramer\n- (paper) [Los\
-    \ Egipcios](/books/info/9788420635507) by Isaac Asimov\n- (audio) [Emperors of\
-    \ Rome](/books/info/B00D8HXDPQ) by Garrett G. Fagan\n- (audio) [Pax Romana](/books/info/B01KMXAL9Y)\
-    \ by Adrian Goldsworthy\n- (audio) [Julius Caesar](/books/info/B002V8KXYC) by\
-    \ J. F. C. Fuller\n- (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth\
-    \ Vandiver\n- (audio) [Ancient Greek Civilization](/books/info/B00D6OQFZG) by\
-    \ Jeremy McInerney\n- (audio) [Living History](/books/info/B00XP3CMHI) by Robert\
-    \ Garland\n- (audio) [Great Mythologies of the World](/books/info/B013KRSIVC)\
+    \ [El Cercano Oriente (Historia Universal Asimov, #1)](/books/info/9788420637457)\
+    \ by Isaac Asimov\n- (paper) [La Rep\xFAblica Romana](/books/info/9788420635347)\
+    \ by Isaac Asimov\n- (paper) [El Imperio Romano](/books/info/9788420635484) by\
+    \ Isaac Asimov\n- (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov\n\
+    - (paper) [L'Histoire commence \xE0 Sumer](/books/info/9782080812988) by Samuel\
+    \ Noah Kramer\n- (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov\n\
+    - (audio) [Emperors of Rome](/books/info/B00D8HXDPQ) by Garrett G. Fagan\n- (audio)\
+    \ [Pax Romana](/books/info/B01KMXAL9Y) by Adrian Goldsworthy\n- (audio) [Herodotus](/books/info/B00DC8CFZK)\
+    \ by Elizabeth Vandiver\n- (audio) [Ancient Greek Civilization](/books/info/B00D6OQFZG)\
+    \ by Jeremy McInerney\n- (audio) [Great Mythologies of the World](/books/info/B013KRSIVC)\
     \ by Grant L. Voth, Julius H. Bailey, Kathryn McClymond, Robert Andr&eacute; LaFleur\n\
     - (audio) [Cities of the Ancient World](/books/info/B00LG7MR20) by Steven L. Tuck\n\
     - (audio) [Great Battles of the Ancient World](/books/info/B00DB92ATG) by Garrett\

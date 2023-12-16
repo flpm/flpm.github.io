@@ -8,7 +8,7 @@ I work in the intersection of software engineering, information security and des
 
 This site contains my side
 [projects](/projects) and notes. You can also find more
-[about me](/about) and what I am up to [now](/now).
+[about me](/about).
 
 I am working on a personal project to catalogue my [personal library](/books).
 

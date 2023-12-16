@@ -6,9 +6,9 @@ filename: null
 group: Design
 sublist_description: null
 books: &id001
-- '9788437507521'
 - '9781419724015'
 - '9783836545303'
+- '9788437507521'
 - '9780062872968'
 - '9781631596315'
 - '9781631597480'
@@ -37,10 +37,10 @@ items:
 - name: about_design
   title: null
   books: *id001
-  description: "- (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521)\
-    \ by Javier S\xE1ez Cast\xE1n\n- (paper) [The Moderns](/books/info/9781419724015)\
-    \ by Steven Heller, Greg D'Onofrio\n- (paper) [LOGO Modernism](/books/info/9783836545303)\
-    \ by Jens M\xFCller\n- (paper) [Why Design Matters](/books/info/9780062872968)\
+  description: "- (paper) [The Moderns](/books/info/9781419724015) by Steven Heller,\
+    \ Greg D'Onofrio\n- (paper) [LOGO Modernism](/books/info/9783836545303) by Jens\
+    \ M\xFCller\n- (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521)\
+    \ by Javier S\xE1ez Cast\xE1n\n- (paper) [Why Design Matters](/books/info/9780062872968)\
     \ by Debbie Millman\n- (paper) [Layout Essentials Revised and Updated](/books/info/9781631596315)\
     \ by Beth Tondreau\n- (paper) [Universal Methods of Design Expanded and Revised](/books/info/9781631597480)\
     \ by Bruce Hanington, Bella Martin\n- (paper) [Interviewing Users](/books/info/9781933820118)\

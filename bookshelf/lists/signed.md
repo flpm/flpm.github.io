@@ -12,6 +12,9 @@ items:
   subtitle: null
   sublist_description: null
   books:
+  - '9781982113476'
+  - B07L39ZZ2Q
+  - '9780199291151'
   - '9780871404220'
   - '9781846683800'
   - '9781982167738'
@@ -26,6 +29,12 @@ items:
   - '9781118790816'
   - '9780743200790'
   description: 'Book titles:
+
+    - (paper) [Every Tool''s a Hammer](/books/info/9781982113476) by Adam Savage
+
+    - (audio) [Every Tool''s a Hammer](/books/info/B07L39ZZ2Q) by Adam Savage
+
+    - (paper) [The Selfish Gene](/books/info/9780199291151) by Richard Dawkins
 
     - (paper) [Emperor of Rome](/books/info/9780871404220) by Mary Beard
 

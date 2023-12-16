@@ -12,16 +12,16 @@ listening:
   duration: 53154.0
   first_time: '2022-01-20'
   last_time: '2022-01-29'
-link: https://www.audible.com/pd/Believe-Me-Audiobook/B06XWYMP73
+link: https://www.audible.com/pd/B06XWYMP73
 source: Audible
 purchase_date: '2021-11-22'
 listening_date: '2022-01-20'
 read_status:
-  start: true
   finish: true
   like: true
   recommend: true
-recommendation_status: null
+  start: true
+recommendation_status: true
 theme: humor
 topics:
 - Entertainment & Celebrities

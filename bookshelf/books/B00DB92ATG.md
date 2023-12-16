@@ -11,13 +11,13 @@ listening:
   duration: 39263.0
   first_time: '2022-08-31'
   last_time: '2022-09-11'
-link: https://www.audible.com/pd/Great-Battles-of-the-Ancient-World-Audiobook/B00DB92ATG
+link: https://www.audible.com/pd/B00DB92ATG
 source: Audible
 listening_date: '2022-08-31'
 read_status:
-  start: true
   finish: true
   like: true
+  start: true
 theme: ancient history
 topics:
 - Military

@@ -15,8 +15,8 @@ link: https://www.audible.com/pd/B00SJIVE3W
 source: Audible
 listening_date: '2023-02-23'
 read_status:
-  start: true
   dislike: true
+  start: true
 theme: writing
 topics:
 - Communication & Social Skills

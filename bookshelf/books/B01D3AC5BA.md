@@ -12,14 +12,14 @@ listening:
   duration: 30839.0
   first_time: '2021-09-29'
   last_time: '2021-10-18'
-link: https://www.audible.com/pd/Grit-Audiobook/B01D3AC5BA
+link: https://www.audible.com/pd/B01D3AC5BA
 source: Audible
 purchase_date: '2021-09-29'
 listening_date: '2021-09-29'
 read_status:
-  start: true
   finish: true
   like: true
+  start: true
 theme: psychology
 topics:
 - Education

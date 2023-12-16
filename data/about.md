@@ -3,8 +3,8 @@ title: 'About'
 subtitle: 'A bit more about me'
 date: '2023-08-20'
 related:
-    - label: What I am up to lately
-      link: /now
+    - label: My personal library
+      link: /books
     - label: More about this site
       link: /notes/colophon
     - label: Reach out and say hi!

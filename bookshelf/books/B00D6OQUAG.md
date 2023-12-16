@@ -7,7 +7,7 @@ asin: B00D6OQUAG
 link: https://www.audible.com/pd/Analysis-and-Critique-How-to-Engage-and-Write-about-Anything-Audiobook/B00D6OQUAG
 author: Dorsey Armstrong
 narrator: Dorsey Armstrong
-cover_url: My%20Library%20Audible.com-4_files/51rTNoNNdXL._SL500_.jpg
+cover_url: My%20Library%20Audible.com_files/51rTNoNNdXL._SL500_.jpg
 cover_filename: B00D6OQUAG.jpg
 source: Audible
 type: audiobook
@@ -27,6 +27,9 @@ rating:
   count: 993
 duration: 44160000
 length: 44160000
+theme: writing
+location: New York
+purchase_date: '2023-09-10'
 ---
 Tap into the power of effective writing by developing the fundamental critical and analytical skills that transform your writing from "good" to "great." Regardless of your subject, goal, or occasion, these skills will help you organize your thoughts into a coherent piece, make a persuasive argument rooted in facts, and make responsible use of research materials.
 You'll find the secrets of these and other methods in 24 accessible lectures that immerse you in the elements of successful writing. With engaging literary and everyday examples, inspirational prompts, and unforgettable insights, this course is the perfect reference guide for both professional and casual writers.

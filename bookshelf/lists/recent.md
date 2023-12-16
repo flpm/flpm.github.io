@@ -12,31 +12,32 @@ items:
   subtitle: null
   sublist_description: null
   books:
-  - 198484475X
-  - 0593290747
-  - '9780871404220'
-  - '9780130211002'
-  - '9780679422990'
-  - B075F8XF1V
-  - '9781912891931'
-  - B0BFK1K36D
+  - '1662084005'
+  - B00XUTQ692
+  - B079Y9D1N1
+  - '9780385352017'
+  - '9781982113476'
+  - '9780691135199'
+  - B07L39ZZ2Q
+  - '9788419969071'
   description: 'Book titles:
 
-    - (audio) [Figuring](/books/info/198484475X) by Maria Popova
+    - (audio) [Wordcraft](/books/info/1662084005) by Jack Hart
 
-    - (audio) [All About Me!](/books/info/0593290747) by Mel Brooks
+    - (audio) [You''re Never Weird on the Internet (Almost)](/books/info/B00XUTQ692)
+    by Felicia Day
 
-    - (paper) [Emperor of Rome](/books/info/9780871404220) by Mary Beard
+    - (audio) [Crash Test Girl](/books/info/B079Y9D1N1) by Kari Byron
 
-    - (paper) [Reading Lessons](/books/info/9780130211002) by Scott Carpenter
+    - (paper) [The Attention Merchants](/books/info/9780385352017) by Tim Wu
 
-    - (paper) [Ficciones](/books/info/9780679422990) by Jorge Luis Borges
+    - (paper) [Every Tool''s a Hammer](/books/info/9781982113476) by Adam Savage
 
-    - (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee
+    - (paper) [The Chapter](/books/info/9780691135199) by Nicholas Dames
 
-    - (paper) [Therapeutic Atlas](/books/info/9781912891931) by The School Of Life.
+    - (audio) [Every Tool''s a Hammer](/books/info/B07L39ZZ2Q) by Adam Savage
 
-    - (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs'
+    - (paper) [La vida con libros](/books/info/9788419969071) by Ricardo Moreno Castillo'
 ---
 
 

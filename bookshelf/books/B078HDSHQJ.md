@@ -11,14 +11,14 @@ listening:
   duration: 44632.0
   first_time: '2022-03-08'
   last_time: '2022-03-30'
-link: https://www.audible.com/pd/The-Rise-of-Rome-Audiobook/B078HDSHQJ
+link: https://www.audible.com/pd/B078HDSHQJ
 source: Audible
 purchase_date: '2021-11-25'
 listening_date: '2022-03-08'
 read_status:
-  start: true
   finish: true
   like: true
+  start: true
 theme: ancient history
 topics:
 - Ancient
