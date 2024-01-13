@@ -30,14 +30,14 @@ export default function Bookshelf({ data }) {
       >
         <div className="pt-[6rem] pb-12">
           <div className={`${openSans.className} text-6xl font-semibold pb-12`}>
-            My Personal Library
+            My Books
             <div className={`${openSans.className} text-5xl pt-4 font-light`}>
-              A catalogue of the books and audiobooks I own
+              A list of the books and audiobooks I own
             </div>
           </div>
           <div className="markdown-content text-xl">
             <p>
-              In 2022, I decided to start a new personal project to catalogue my
+              In 2022, I decided to start a new personal project to catalog my
               books and audiobooks. Collecting and processing the data was a
               technical challenge, but I am now able to explore my library in
               ways I could not by just looking at the books on the shelf.
@@ -70,13 +70,9 @@ export default function Bookshelf({ data }) {
                 </li>
               </ul>
             </p>
-            <p>
-              Or, if you are feeling adventurous, just continue scrolling for
-              the books in random order.
-            </p>
           </div>
         </div>
-        <div>
+        {/* <div>
           {data.map((book) => {
             return (
               <div
@@ -97,7 +93,7 @@ export default function Bookshelf({ data }) {
               </div>
             );
           })}
-        </div>
+        </div> */}
       </Section>
     </Layout>
   );
