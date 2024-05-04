@@ -1,7 +1,7 @@
-import Section from "../../components/section";
+import Section from "../../components/sections/section";
 import Layout from "../../components/layout";
 import Image from "next/image";
-import { openSans } from "../../components/fonts";
+import { openSans } from "../../components/utils/fonts";
 import { getListData, getAllIds } from "../../lib/books";
 
 import { ReactMarkdown } from "react-markdown/lib/react-markdown";
