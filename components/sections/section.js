@@ -1,4 +1,4 @@
-import { gridWidth, darkContentGridColor } from "../lib/grid_view";
+import { gridWidth, darkContentGridColor } from "../../lib/grid_view";
 import Spacer from "./spacer";
 
 export default function Section({

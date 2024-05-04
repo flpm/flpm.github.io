@@ -1,5 +1,8 @@
-import { lightContentGridColor, lightFrameGridColor } from "../lib/grid_view";
-import { iADuo } from "./fonts";
+import {
+  lightContentGridColor,
+  lightFrameGridColor,
+} from "../../lib/grid_view";
+import { iADuo } from "../utils/fonts";
 
 export default function FrameContent({
   leftBar,

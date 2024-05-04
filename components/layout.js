@@ -1,9 +1,9 @@
 import Head from "next/head";
 import Link from "next/link";
 
-import FrameTop from "./frame_top";
-import FrameBottom from "./frame_bottom";
-import FrameContent from "./frame_content";
+import FrameTop from "./layout_components/frame_top";
+import FrameBottom from "./layout_components/frame_bottom";
+import FrameContent from "./layout_components/frame_content";
 
 import { lightContentGridColor } from "../lib/grid_view";
 
@@ -26,7 +26,7 @@ export default function Layout({ title, children, gridClassName }) {
           siteMenu={[
             ["about", "/about"],
             ["links", "/links"],
-            ["books", "/books"],
+            ["reading", "/books"],
             ["projects", "/projects"],
           ]}
           siteName="flpm.dev"
