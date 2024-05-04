@@ -1,5 +1,5 @@
 import "../styles/globals.css";
-import { iADuo } from "../components/fonts";
+import { iADuo } from "../components/utils/fonts";
 
 export default function App({ Component, pageProps }) {
   return (

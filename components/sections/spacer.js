@@ -1,4 +1,4 @@
-import { gridWidth, darkContentGridColor } from "../lib/grid_view";
+import { gridWidth, darkContentGridColor } from "../../lib/grid_view";
 
 export default function Spacer({ columns = 1, className = "" }) {
   if (columns === 0) return null;

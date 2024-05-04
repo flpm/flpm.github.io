@@ -1,9 +1,9 @@
 import Head from "next/head";
 import Link from "next/link";
 
-import FrameTop from "./frame_top";
-import FrameBottom from "./frame_bottom";
-import FrameContent from "./frame_content";
+import FrameTop from "./layout_components/frame_top";
+import FrameBottom from "./layout_components/frame_bottom";
+import FrameContent from "./layout_components/frame_content";
 
 import { lightContentGridColor } from "../lib/grid_view";
 
@@ -14,9 +14,10 @@ export default function Layout({ title, children, gridClassName }) {
     <div className="min-w-[800px]">
       <Head>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="profile" href="/profile/hcard.html"></link>
         <meta
           name="description"
-          content="Felipe Moreno | security + code + data + design"
+          content="This is the personal site of Felipe Moreno, covering his projects, reading, and other interests."
         />
         <meta name="og:title" content={siteTitle} />\
         <title>{title || siteTitle}</title>
@@ -26,7 +27,7 @@ export default function Layout({ title, children, gridClassName }) {
           siteMenu={[
             ["about", "/about"],
             ["links", "/links"],
-            ["books", "/books"],
+            ["reading", "/books"],
             ["projects", "/projects"],
           ]}
           siteName="flpm.dev"

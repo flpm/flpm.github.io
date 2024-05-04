@@ -1,6 +1,6 @@
-import SectionLink from "./section_link";
-import { lightFrameGridColor, darkFrameGridColor } from "../lib/grid_view";
-import { iADuo } from "./fonts";
+import SectionLink from "../sections/section_link";
+import { lightFrameGridColor, darkFrameGridColor } from "../../lib/grid_view";
+import { iADuo } from "../utils/fonts";
 
 export default function FrameTop({ siteMenu, siteName, showFrame = false }) {
   return (
