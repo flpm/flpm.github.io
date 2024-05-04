@@ -17,6 +17,8 @@ module.exports = {
     "col-span-9",
     "col-span-10",
     "col-span-11",
+    "text-8xl",
+    "text-7xl",
   ],
   theme: {
     extend: {
