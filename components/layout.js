@@ -14,9 +14,10 @@ export default function Layout({ title, children, gridClassName }) {
     <div className="min-w-[800px]">
       <Head>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="profile" href="/profile/hcard.html"></link>
         <meta
           name="description"
-          content="Felipe Moreno | security + code + data + design"
+          content="This is the personal site of Felipe Moreno, covering his projects, reading, and other interests."
         />
         <meta name="og:title" content={siteTitle} />\
         <title>{title || siteTitle}</title>
