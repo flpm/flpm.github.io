@@ -1,9 +1,9 @@
 import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 import Image from "next/image";
 import Layout from "../../../components/layout";
-import Section from "../../../components/section";
+import Section from "../../../components/sections/section";
 import Link from "next/link";
-import { openSans, iADuoItalic } from "../../../components/fonts";
+import { openSans, iADuoItalic } from "../../../components/utils/fonts";
 import { getBookData, getAllIds } from "../../../lib/books";
 import { useRouter } from "next/router";
 import moment from "moment";
